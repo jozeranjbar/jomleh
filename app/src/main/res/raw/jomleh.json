@@ -1,0 +1,4432 @@
+[
+{
+"p": "حال ساده و مجهولش(برای بیان عادتها و ویژگیها و تکرارها) \nاو میخره\/ خریده میشه.\nاو می‌بینه \/ دیده میشه.\nاو آب را می‌جوشانه \/ آب جوشانده میشه.\nآب در صد درجه میجوشه \/ جوشاندن فعل متعدیه اما جوشیدن فعل لازمه و مفعول و مجهول ندارد.",
+"e": "He buys \/ It is bought.\nHe see's \/ He is seen.\nHe boils the water \/ The water is boiled.\nWater boils at 100°.",
+"t": "عبارات"
+},
+{
+"p": "گذشته ساده و مجهولش\nاو خرید\/ خریده شد\nاو دید \/ دیده شد",
+"e": "He bought \/ It was bought.\nHe saw \/ He was seen.",
+"t": "عبارات"
+},
+{
+"p": "آینده ساده و مجهولش\nاو خواهد خرید \/ خریده خواهد شد\nاو خواهد دید \/ او دیده خواهد شد",
+"e": "He will buy \/ It will be bought\nHe will see \/ He will be seen",
+"t": "عبارات"
+},
+{
+"p": "حال استمراری و مجهولش(برای کار در حال انجام و برای بیان برنامه های موقتی و نه برنامه های ثابت که مخصوص حال ساده است)\nدر حال خریدنه \/ در حال خریده شدنه\nداره می‌بینه \/ داره دیده میشه\nفردا با اونا ملاقات میکنیم",
+"e": "He is buying. \/ It is being bought.\nHe is seeing. \/ He is beeing seen.\nWe are meeting them tomorrow.",
+"t": "عبارات"
+},
+{
+"p": "گذشته استمراری و مجهولش\nدر حال خریدن بود \/ در حال خریده شدن بود\nداشت می‌دید \/ داشت دیده می‌شد",
+"e": "He was buying \/ It was being bought.\nHe was seeing \/ He was being seen.",
+"t": "عبارات"
+},
+{
+"p": "آینده استمراری و مجهولش\nاو در حال خریدن خواهد بود\/ او در حال خریده شدن خواهد بود.\nاو در حال دیدن خواهد بود\/ او در حال دیده شدن خواهد بود.",
+"e": "He will be buying \/ ‌He will being bought\nHe will be seeing \/ He will being seen",
+"t": "عبارات"
+},
+{
+"p": "حال کامل ساده و مجهولش\nاو خریده است \/ خریده شده است\nاو دیده \/ دیده شده",
+"e": "He has bought \/ It has been bought.\nHe has seen \/ He has been seen.",
+"t": "عبارات"
+},
+{
+"p": "گذشته کامل ساده و مجهولش\nخریده بود \/ خریده شده بود\nدیده بود \/ دیده شده بود",
+"e": "He had bought \/ It had been bought.\nHe had seen \/ He had been seen",
+"t": "عبارات"
+},
+{
+"p": "چه تعداد ؟",
+"e": "How many ?",
+"t": "عبارات"
+},
+{
+"p": "چه سنی ؟",
+"e": "How old ?",
+"t": "عبارات"
+},
+{
+"p": "چه مسافتی ؟",
+"e": "How far",
+"t": "عبارات"
+},
+{
+"p": "چه قدی؟",
+"e": "How tall?",
+"t": "عبارات"
+},
+{
+"p": "چه ارتفاعی؟",
+"e": "How high?",
+"t": "عبارات"
+},
+{
+"p": "چه عمقی؟",
+"e": "How deep?",
+"t": "عبارات"
+},
+{
+"p": "چه عرضی؟",
+"e": "How wide",
+"t": "عبارات"
+},
+{
+"p": "تا کِی؟",
+"e": "How late",
+"t": "عبارات"
+},
+{
+"p": "چه مدت؟ \/ چه طولی ؟",
+"e": "How long ?",
+"t": "عبارات"
+},
+{
+"p": "بیدار شو(پاشو از خوابیدن)",
+"e": "Get up",
+"t": "عبارات"
+},
+{
+"p": "بیدار شو (چشاتو باز کن)",
+"e": "Wake up",
+"t": "عبارات"
+},
+{
+"p": "ادامه بده\n(up \nمعمولا به کلمه شدت میده)",
+"e": "Keep up",
+"t": "عبارات"
+},
+{
+"p": "زیاد حرف بزن",
+"e": "Speak up",
+"t": "عبارات"
+},
+{
+"p": "بیخیال شو",
+"e": "Give up",
+"t": "عبارات"
+},
+{
+"p": "آرام باش",
+"e": "Easy up",
+"t": "عبارات"
+},
+{
+"p": "گوش کن",
+"e": "Listen up",
+"t": "عبارات"
+},
+{
+"p": "صبر کن",
+"e": "Wait up",
+"t": "عبارات"
+},
+{
+"p": "تمام کن",
+"e": "Finish up",
+"t": "عبارات"
+},
+{
+"p": "ساکت شو",
+"e": "Shut up",
+"t": "عبارات"
+},
+{
+"p": "پاشو (بیدار شو)",
+"e": "Get up",
+"t": "عبارات"
+},
+{
+"p": "سوار شو",
+"e": "Get on",
+"t": "عبارات"
+},
+{
+"p": "پیاده شو",
+"e": "Get off",
+"t": "عبارات"
+},
+{
+"p": "وارد شدن(داخل اتاق شو)",
+"e": "Get in(get in the room)",
+"t": "عبارات"
+},
+{
+"p": "ورود کن(او ورود پیدا کرد به دانشگاه)",
+"e": "Get into(He got into University)",
+"t": "عبارات"
+},
+{
+"p": "کنار بیا ، (کنار آمدن با جدایی سخته)",
+"e": "Get over ‌, (It’s hard to get over a breakup)",
+"t": "عبارات"
+},
+{
+"p": "بس کن",
+"e": "Cut it",
+"t": "عبارات"
+},
+{
+"p": "متوجه شدم",
+"e": "I get it",
+"t": "عبارات"
+},
+{
+"p": "همین است",
+"e": "That's it",
+"t": "عبارات"
+},
+{
+"p": "آن را بده",
+"e": "Give it",
+"t": "عبارات"
+},
+{
+"p": "بپر داخل",
+"e": "Jump in",
+"t": "عبارات"
+},
+{
+"p": "در کل",
+"e": "All in",
+"t": "عبارات"
+},
+{
+"p": "مواظب باش",
+"e": "Watch out این پسوند به معنی بیرون آوردن و آشکار کردن است",
+"t": "عبارات"
+},
+{
+"p": "کمک کن",
+"e": "Help out",
+"t": "عبارات"
+},
+{
+"p": "آروم باش",
+"e": "Chill out",
+"t": "عبارات"
+},
+{
+"p": "مواظب باش!",
+"e": "Look out!",
+"t": "عبارات"
+},
+{
+"p": "شروع کن\non و out\nوقتی با کلمات ترکیب میشن حس \"ادامه و حرکت\" را ایجاد میکنن",
+"e": "Start out",
+"t": "عبارات"
+},
+{
+"p": "ورزش کن",
+"e": "Work out",
+"t": "عبارات"
+},
+{
+"p": "کاملاً درست",
+"e": "Right on",
+"t": "عبارات"
+},
+{
+"p": "ادامه بده",
+"e": "Go on",
+"t": "عبارات"
+},
+{
+"p": "صبر کن",
+"e": "Hold on",
+"t": "عبارات"
+},
+{
+"p": "ادامه بده",
+"e": "Carry on",
+"t": "عبارات"
+},
+{
+"p": "صبر کن",
+"e": "Hang on",
+"t": "عبارات"
+},
+{
+"p": "مال من باش",
+"e": "Be mine",
+"t": "عبارات"
+},
+{
+"p": "آرام باش",
+"e": "Calm down",
+"t": "عبارات"
+},
+{
+"p": "آفرین",
+"e": "Well done",
+"t": "عبارات"
+},
+{
+"p": "مراقب باش",
+"e": "Be safe",
+"t": "عبارات"
+},
+{
+"p": "برگرد",
+"e": "Turn back",
+"t": "عبارات"
+},
+{
+"p": "دنبالش برو",
+"e": "Go after",
+"t": "عبارات"
+},
+{
+"p": "دور بمان",
+"e": "Stay back",
+"t": "عبارات"
+},
+{
+"p": "از اینجا دور شو",
+"e": "Get away",
+"t": "عبارات"
+},
+{
+"p": "چرا نه؟",
+"e": "Why not?",
+"t": "عبارات"
+},
+{
+"p": "یک لحظه",
+"e": "One moment",
+"t": "عبارات"
+},
+{
+"p": "خب که چی؟",
+"e": "So what?",
+"t": "عبارات"
+},
+{
+"p": "دستش را بگیر",
+"e": "Hold hands",
+"t": "عبارات"
+},
+{
+"p": "در حقیقت",
+"e": "In truth",
+"t": "عبارات"
+},
+{
+"p": "بالاخره",
+"e": "Finally",
+"t": "عبارات"
+},
+{
+"p": "برگرد",
+"e": "Head back",
+"t": "عبارات"
+},
+{
+"p": "عقب بایست",
+"e": "Stand back",
+"t": "عبارات"
+},
+{
+"p": "کنار برو",
+"e": "Step aside",
+"t": "عبارات"
+},
+{
+"p": "بالاخره",
+"e": "At last",
+"t": "عبارات"
+},
+{
+"p": "مراقب باش",
+"e": "Take care",
+"t": "عبارات"
+},
+{
+"p": "واقعاً؟",
+"e": "Seriously?",
+"t": "عبارات"
+},
+{
+"p": "به هیچ وجه",
+"e": "No way",
+"t": "عبارات"
+},
+{
+"p": "به هرحال",
+"e": "Anyway",
+"t": "عبارات"
+},
+{
+"p": "در واقع",
+"e": "In fact",
+"t": "عبارات"
+},
+{
+"p": "به زودی می‌بینمت",
+"e": "See ya",
+"t": "عبارات"
+},
+{
+"p": "دور شو",
+"e": "Back off",
+"t": "عبارات"
+},
+{
+"p": "همین الان",
+"e": "Right now",
+"t": "عبارات"
+},
+{
+"p": "شوخی نکن",
+"e": "No kidding",
+"t": "عبارات"
+},
+{
+"p": "از نو شروع کن",
+"e": "Start over",
+"t": "عبارات"
+},
+{
+"p": "برو",
+"e": "Get going",
+"t": "عبارات"
+},
+{
+"p": "برگرد",
+"e": "Come back",
+"t": "عبارات"
+},
+{
+"p": "خیلی باحاله",
+"e": "So cool",
+"t": "عبارات"
+},
+{
+"p": "خونسرد باش",
+"e": "Be cool",
+"t": "عبارات"
+},
+{
+"p": "باید به‌روز بمانیم.",
+"e": "We need to stay up to date.",
+"t": "عمومی"
+},
+{
+"p": "این یک جهش بزرگ است.",
+"e": "That's a huge leap.",
+"t": "عمومی"
+},
+{
+"p": "این فشار خیلی زیاد است.",
+"e": "This is too much pressure.",
+"t": "عمومی"
+},
+{
+"p": "بیایید وقت تلف نکنیم.",
+"e": "Let's not waste any time.",
+"t": "عمومی"
+},
+{
+"p": "آیا می‌توانم پیشنهادی بدهم؟",
+"e": "May I offer a suggestion?",
+"t": "عمومی"
+},
+{
+"p": "آن را به من بسپار.",
+"e": "Leave it to me.",
+"t": "عمومی"
+},
+{
+"p": "ما باید به اصل موضوع برگردیم.",
+"e": "We need to get back to the main point.",
+"t": "عمومی"
+},
+{
+"p": "فکر می‌کنم هدف را گم کرده‌ایم.",
+"e": "I think we lost sight of the goal.",
+"t": "عمومی"
+},
+{
+"p": "من وقتم را برای این هدر نمی‌دهم.",
+"e": "I’m not wasting my time on this.",
+"t": "عمومی"
+},
+{
+"p": "این یک وضعیت برد-برد است.",
+"e": "It’s a win-win situation.",
+"t": "عمومی"
+},
+{
+"p": "این موضوع را شخصی نکن.",
+"e": "Don’t take this personally.",
+"t": "عمومی"
+},
+{
+"p": "می‌توانم کاری برایت انجام دهم؟",
+"e": "Can I do anything for you?",
+"t": "عمومی"
+},
+{
+"p": "من با آن کنار می‌آیم.",
+"e": "I can live with that.",
+"t": "عمومی"
+},
+{
+"p": "تقریباً آماده حرکت هستم.",
+"e": "I’m almost good to go.",
+"t": "عمومی"
+},
+{
+"p": "اجازه بدهید این را شفاف کنم.",
+"e": "Let me be clear on this.",
+"t": "عمومی"
+},
+{
+"p": "این کاملاً ارزش ریسک کردن را دارد.",
+"e": "It’s totally worth the risk.",
+"t": "عمومی"
+},
+{
+"p": "من فکر می‌کنم در مورد آن در اشتباه هستی.",
+"e": "I think you’re mistaken about that.",
+"t": "عمومی"
+},
+{
+"p": "این آنقدر خوب است که نمی‌تواند واقعی باشد.",
+"e": "It’s too good to be true.",
+"t": "عمومی"
+},
+{
+"p": "هیچ وقت نگو هرگز.",
+"e": "Never say never.",
+"t": "عمومی"
+},
+{
+"p": "شما مرا متقاعد کردید.",
+"e": "You've convinced me.",
+"t": "عمومی"
+},
+{
+"p": "بیا برویم جلو.",
+"e": "Let's move on.",
+"t": "عمومی"
+},
+{
+"p": "این برای من یک گام بزرگ است.",
+"e": "This is a huge step for me.",
+"t": "عمومی"
+},
+{
+"p": "من از تو حمایت می‌کنم.",
+"e": "I've got your back.",
+"t": "عمومی"
+},
+{
+"p": "تو از پس این کار برمی‌آیی.",
+"e": "You can handle this.",
+"t": "عمومی"
+},
+{
+"p": "تسلیم نشو!",
+"e": "Don't give up!",
+"t": "عمومی"
+},
+{
+"p": "همه چیز خوب پیش خواهد رفت.",
+"e": "Everything will work out fine.",
+"t": "عمومی"
+},
+{
+"p": "از دیدن آن شوکه شدم.",
+"e": "I was blown away when I saw it.",
+"t": "عمومی"
+},
+{
+"p": "اجازه بدهید این را در ذهنم داشته باشم.",
+"e": "Let me keep that in mind.",
+"t": "عمومی"
+},
+{
+"p": "بیا این بحث را کنار بگذاریم.",
+"e": "Let's drop the subject.",
+"t": "عمومی"
+},
+{
+"p": "چراغ‌ها روشن هستند، اما کسی خانه نیست.",
+"e": "The lights are on, but nobody’s home.",
+"t": "عمومی"
+},
+{
+"p": "موضوع را عوض نکن.",
+"e": "Don't change the subject.",
+"t": "عمومی"
+},
+{
+"p": "آیا چیزی را از دست دادم؟",
+"e": "Did I miss anything?",
+"t": "عمومی"
+},
+{
+"p": "به شایعات توجه نکن.",
+"e": "Don't pay attention to the rumors.",
+"t": "عمومی"
+},
+{
+"p": "باید دوباره بررسی کنیم.",
+"e": "We need to double-check.",
+"t": "عمومی"
+},
+{
+"p": "برایت بهترین‌ها را آرزو می‌کنم.",
+"e": "I wish you all the best.",
+"t": "عمومی"
+},
+{
+"p": "بیایید از نو شروع کنیم.",
+"e": "Let's start from scratch.",
+"t": "عمومی"
+},
+{
+"p": "متوجه شدم.",
+"e": "I get it.",
+"t": "عمومی"
+},
+{
+"p": "کمی گیج شده‌ام.",
+"e": "I'm a little confused.",
+"t": "عمومی"
+},
+{
+"p": "نتیجه نهایی چیست؟",
+"e": "What's the bottom line?",
+"t": "عمومی"
+},
+{
+"p": "چطور توانستی آن کار را مدیریت کنی؟",
+"e": "How did you manage to do that?",
+"t": "عمومی"
+},
+{
+"p": "امروز هوا کمی ابری است.",
+"e": "It’s a bit overcast today.",
+"t": "عمومی"
+},
+{
+"p": "به نظر می‌رسد روز خوبی خواهد بود.",
+"e": "Looks like it'll be a nice day.",
+"t": "عمومی"
+},
+{
+"p": "فکر می‌کنم باران شدیدی خواهد آمد.",
+"e": "I think it’s going to pour.",
+"t": "عمومی"
+},
+{
+"p": "من با این وضعیت راحت نیستم.",
+"e": "I'm not comfortable with the situation.",
+"t": "عمومی"
+},
+{
+"p": "به عقیده من، ارزشش را ندارد.",
+"e": "In my opinion, it's not worth it.",
+"t": "عمومی"
+},
+{
+"p": "این باید اولویت ما باشد.",
+"e": "This should be our priority.",
+"t": "عمومی"
+},
+{
+"p": "چقدر طول می‌کشد؟",
+"e": "How long will it take?",
+"t": "عمومی"
+},
+{
+"p": "بگذار یکم فکر کنم.",
+"e": "Let me sleep on it.",
+"t": "عمومی"
+},
+{
+"p": "نظرت چیست فردا انجامش دهیم؟",
+"e": "How about we do it tomorrow?",
+"t": "عمومی"
+},
+{
+"p": "من یک ایده دارم.",
+"e": "I've got an idea.",
+"t": "عمومی"
+},
+{
+"p": "برای من فرقی نمی‌کند.",
+"e": "It doesn't make a difference to me.",
+"t": "عمومی"
+},
+{
+"p": "در این مورد چه فکری می‌کنی؟",
+"e": "What do you think about this?",
+"t": "عمومی"
+},
+{
+"p": "من در مورد آن مطمئن نیستم.",
+"e": "I'm not so sure about that.",
+"t": "عمومی"
+},
+{
+"p": "من کاملاً موافقم.",
+"e": "I totally agree.",
+"t": "عمومی"
+},
+{
+"p": "میان من و تو باشد (بین خودمون باشه)\/او میان گل‌ها بود",
+"e": "Be between you and me\nHe was among the flowers",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "بیا اتاقمان را رنگ دیگری بزنیم\/بیا رنگ‌های دیگر را امتحان کنیم\/یکی دیگر لطفاً",
+"e": "Let’s paint our room another color\nLet’s try other colors\nAnother one please",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "هدف از این ملاقات تعیین مدیر است\/هدف من از یادگیری زبان، موفق شدن در امتحان است\/هدف نهایی من یادگیری زبان در دو سال است",
+"e": "The purpose of this meeting is to appoint a manager\/My goal in learning the language is to pass the exam\/My objective is to learn the language in 2 years",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "هدف او تبدیل شدن به یک خلبان بود\/هدف شرکت رسیدن به سود ده درصد است\/او هدف خود را نشانه گرفت\/مقصد تو کجاست؟",
+"e": "Her ambition was to become a pilot\/The company’s target is 10% profit\/He aimed at the target\/Where is your destination?",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "من در اتاقم هستم\/من وارد اتاقم می‌شوم",
+"e": "I’m in (my) room\nI walk into my room",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "کجا می‌رفتی؟\/کجا می‌روی؟",
+"e": "Where were you going?\nWhere are you going?",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "آن یک خودکار است\/آن خودکار مال کیست؟",
+"e": "It is a pen\nWhose is that pen?",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "من در خانه‌ی کوچکی زندگی می‌کنم\/او یک مار زنده پیدا کرد\/تصادف‌ها بخشی از زندگی هستند",
+"e": "I live in a small house\nHe found a live snake\nAccidents are part of life",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "او ماشین مرا برداشت\/ورزش کردن زمان مرا نمی‌گیرد",
+"e": "He took my car\nExercise does not take up my time",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "من میوه چیدن را دوست دارم\/او نامه را برداشت و خواند\/من ترجیح می‌دهم صبح‌ها دوش بگیرم",
+"e": "I like picking fruit\nHe picked up the letter and read it\nI prefer to take a shower in the morning",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "در سال ۱۹۹۰ مادرم با پدرم ازدواج کرد\/ازدواجشان به طلاق ختم شد.",
+"e": "In 1990 my mother married my father\nTheir marriage ended in divorce",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "من با تلفن تماس خواهم گرفت\/او با چنگال غذا می‌خورد",
+"e": "I’ll contact by phone\nHe ate food with fork",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "این کتاب از کاغذ ساخته شده است\/ این کتاب از درخت ساخته شده است",
+"e": "This book is made of paper\nThis book is made from tree",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "آیا می‌خواهی برایت کمی قهوه درست کنم؟\/او کیک شکلاتی درست کرد\/او یک اثر هنری زیبا خلق کرد\/پرندگان آشیانه‌هایشان را روی درختان می‌سازند",
+"e": "Do you want me to make some coffee?\nHe made a chocolate cake\nHe created a beautiful work of art\nThe birds build their nests on trees",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "او همان موقعی که آفتاب طلوع کرد رفت\/او زودتر از انتظار آمد",
+"e": "He went as soon as the sun rose\nHe came earlier than expected",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "ما زودی آنجا خواهیم رسید\/من زود (زودتر از معمول) ناهار خواهم خورد",
+"e": "We will be there soon\nI will have an early lunch",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "wear(پوشیدن),wearing(پوشیده،میپوشد)\nپوشش او کت شلوار بود\/او کلاه میپوشد\/او عینک داشت",
+"e": "He wore a suit\/He wear a hat\/He was wearing glasses",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "put on(عمل پوشیدن)،dress(لباس پوشیدن)\nاوکفششو پوشید\/اون بچه‌ش رو لباس پوشوند.",
+"e": "She put on her shoes\/She dressed her baby",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "scare(ترس\/فعل)،fear(ترس\/اسم),afraid(ترس\/صفت)\nمن از او میترسم\/من ترس دارم\/من ترسیده بودم",
+"e": "I scared him\/I have fear\/I was afraidof him",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "like(دوست)\/be like(شبیه)\/would like(دل خواستن)\nمن او را خیلی دوست دارم\/او شبیه منه\/من دلم پیتزا میخواد",
+"e": "I like him a lot\/He is like me\/I would like pizza",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "read(خواندن)،study(خواندن برای آموزش) \nمن خیلی از رمانها را خوانده‌ام\/باید برای امتحانم بخونم",
+"e": "I have read a lot of novels\/I shold study for my exam",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "ما هیچ‌چیز نگفتیم\/او هیچ‌چیز نگفت\/او چیزی نگفت\/چیزی نبود",
+"e": "We didn’t say anything\nHe said nothing\nHe didn’t say anything\nIt was nothing",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "تا جمعه اطلاعات را برایم بفرست\/او تا جمعه در تهران می‌ماند",
+"e": "Send me the information by Friday\nHe is staying in Tehran until Friday",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "مهم نیست چه لباسی بپوشی\/داشتن یک رژیم غذایی سالم مهم است",
+"e": "It doesn’t matter what you wear\nIt’s important to have a healthy diet",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "چقدر خوب غذا می‌پزی؟\/چقدر در آشپزی خوب هستی؟",
+"e": "How well do you cook?\nHow good are you at cooking?",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "شما می‌توانید چای یا قهوه سفارش بدهید\/او نه خجالتی است و نه ساکت\/چه بزرگسالان چه نوجوانان\/چه بخواهی چه نخواهی",
+"e": "You can order either tea or coffee\nShe is neither shy nor quiet\nWhether adults or teenagers\nWhether you want it or not",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "marriedفعل\/marriageاسم\nدر سال ۱۹۹۰ مادرم با پدرم ازدواج کرد\/ازدواجشان به طلاق ختم شد.",
+"e": "In 1990 my mother married my father\nTheir marriage ended in divorce",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "diedفعل\/deadصفت\/Deathاسم\nاو از سرطان مرد\/او ۲۰ ساله که مرده\/مرگ و زندگی با هم هستند",
+"e": "He died from cancer \/ He has been dead for 20 years \/ Death and life are together",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "satisfyفعل\/satisfactionاسم\/satisfactoryصفت\nغیرممکنه بشه همه را راضی کرد\/احساس رضایت می‌ده به من\/جوابش برای من رضایت‌بخش نبود",
+"e": "It is impossible to satisfy everyone \/ It gives me a feeling of satisfaction \/ His answer was not satisfactory to me",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "advisedفعل\/adviceاسم\nدکتر من توصیه کرد وزنم را کم کنم\/معلمش به او تعدادی توصیه کرد",
+"e": "My doctor advised me to lose weight \/ His teacher gave him some advice",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "differentصفت\/differenceاسم\nقیمتها متفاوت بود از یک مغازه به مغازه دیگر\/توی نتایج تفاوتی وجود ندارد",
+"e": "Prices were different from shop to shop \/ There's no difference in results",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "affectفعل\/effectاسم\/effectiveصفت\/ineffectivelyقید\nعقیده تو تاثیر نخواهد گذاشت\/یک معلم می‌تونه تاثیر داشته باشه\/واکسن مؤثر است\/بعضی دانش‌آموزان به‌طور غیر مؤثر وقت صرف می‌کنند",
+"e": "Your opinion will not affect \/ A teacher can have an effect \/ The vaccine is effective \/ Some students spend time ineffectively",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "decisivelyقید\/decideفعل\/decisionاسم\/decisiveصفت\/indecisiveصفت\nآنها بازی را مصصمانه بردند\/تو باید تصمیم بگیری برای خودت\/ما به یک تصمیم خوب رسیدیم\/او یک مدیر مصمم است\/دوست من خیلی تصمیم‌گیرنده ضعیفیه",
+"e": "They won the game decisively \/ You must decide for yourself \/ We reached a good decision \/ He's a decisive manager \/ My friend is too indecisive",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "proudصفت\/prideاسم\nمن بهت افتخار میکنم\/من افتخار دارم از شغلم",
+"e": "I'm proud of you \/ I take pride in my job",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "آیا از زندگی کردن در کیش خوشت می‌آید؟\/آیا دوست داری در کیش زندگی کنی؟",
+"e": "Do you like living in Kish?\nDo you like to live in Kish?",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "او خودخواهی می‌کند (در حال خودخواه بودن است)\/او آدم خودخواهی است.",
+"e": "He’s being selfish\nHe’s selfish",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "به مدت دو روز باران باریده است\/دو روز است که دارد باران می‌بارد.",
+"e": "It has rained for two days\nIt has been raining for two days",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "هنوز تصمیم نگرفته‌ام\/من هنوز دوستان دوران مدرسه‌ام را می‌بینم\/خیلی از مردم هنوز بیرون غذا می‌خورند (در رستوران).",
+"e": "I haven’t decided yet\nI still meet my friends from my schooldays\nMany people still eat out",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "آنها برنامه دارند از ایران مهاجرت کنند\/چقدر پیش به کانادا مهاجرت کردی؟\/برخی کارگران برای یافتن کار مهاجرت می‌کنند.",
+"e": "They’re planning to emigrate from Iran\nHow long ago did you immigrate to Canada?\nSome workers migrate to find work",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "اول فیلم را از دست دادم\/کارم را از دست دادم.",
+"e": "I missed the beginning of the movie\nI lost my job",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "proud صفت\/prideاسم\nمن بهت افتخار میکنم\/من افتخار دارم از شغلم",
+"e": "I'm proud of you \/ I take pride in my job",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "sick(بیماری کوتاه مدت)\/ill(بیماری مزمن و طولانی)\nمن مریضم\/او بیماره،از سرطان رنج میبره",
+"e": "I am sick\/He is ill\/he suffers from cancer",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "enjoy-فعل\/enjoyment-اسم\/enioyable-صفت\nاز سفرم لذت بردم\/بودن در ساحل به من لذت می‌دهد\/من یک صبح لذتبخش داشتم",
+"e": "I enjoyed my trip\/Being at the beach give me enjoyment\/I had an enjoyable morning",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "little(کم و ناکافی)\/a little( یه کم بقدری کافی)\nعسل کم هست\/یه کم عسل هست",
+"e": "There is little hony\/There is a little hony",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "tall(بلند- ارتفاع زیاد و عرض کم)،high(بلند - با عرض و ارتفاع زیاد)\nیک ساختمان بلند\/یک کوه بلند",
+"e": "A tallbulding\/Ahigh montain",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "while(در حالیکه) و when(وقتیکه) \nدر حالی که من کار میکردم علی آمد.\/وقتی که علی امد من داشتم کار میکردم",
+"e": "While I was working, Ali came.\/I was working when Ali came.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "see(دیدن) و look(نگاه کردن) و watch(تماشا کردن) \nمن آن را دیدم.\/من به او نگاه کردم.\/من منظره را تماشا کردم.",
+"e": "I saw it.\/I looked at him.\/I watched the view.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "error(خطا) و mistake(اشتباه) \nبرنامه ارور داد.\/او اشتباه کرد.",
+"e": "The program gave an error.\/He made a mistake.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "wrong(غلط) وfault(تقصیر) \nپاسخ تو غلطه.\/تقصیر توئه.",
+"e": "Your answer is wrong.\/It's your fault.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "say(گفتن بصورت توصیف) ‌و tell(گفتن بصورت اطلاعات دادن) \nاو گفت.\/او به من گفت.",
+"e": "He said.\/He told.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "speak(صحبت) و talk(گفتگوی دو نفره) \nاو با من صحبت کرد.\/ او با من حرف زد(گفتگو کرد).",
+"e": "He spoke to me.\/He talked to me.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "من عادت دارم سیگار بکشم.\/من عادت داشتم سیگار بکشم.\/ دارم به کشیدن سیگار عادت میکنم.",
+"e": "I'm used to smoking.\/I used to smoking.\/I'm getting used to smoking.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "so(خیلی مثبت)و too(خیلی منفی) \nاین خانه خیلی بزرگه(مثبت و خوشایند).\/این خانه خیلی بزرگه(منفی و غیرقابل پسند).",
+"e": "It house so big.\/It house too big.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "من فردا مطالعه می‌کنم(برنامه ریزی شده).\/من فردا به پارک خواهم رفت(بدون برنامه).",
+"e": "I am going to study tomorrow.\/I will go tp Park tomorrow.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "listen(گوش دادن) و hear(شنیدن)\nمن موسیقی گوش میدهم.\/من مکالمه آنها را شنیدم.",
+"e": "I'm listening music.\/I heared their conversetion.",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Pail (سطل) و Pale (رنگ پریده)\nمن سطل را از آب پر کردم.\/او بعد از دیدن روح بسیار رنگ پریده به نظر می‌رسید.",
+"e": "I filled the pail with water\/She looked very pale after seeing the ghost",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Lessen (کم کردن) و Lesson (درس)\nما باید هزینه‌های خود را کم کنیم.\/او از اشتباهات گذشته خود درس گرفت.",
+"e": "We must lessen our expenses\/She learned a lesson from her past mistakes",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Feat (شاهکار) و Feet (پاها)\nآنها یک شاهکار بزرگ در معماری انجام دادند.\/او روی پاهای خود ایستاد.",
+"e": "They performed a great feat of engineering\/He stood on his own feet",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Except (به جز) و Accept (قبول کردن)\nهمه آمدند به جز سارا.\/لطفاً این هدیه کوچک را از طرف من قبول کن.",
+"e": "Everyone came except Sarah\/Please accept this small gift from me",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Born (متولد شدن) و Borne (تحمل کردن)\nاو در تهران متولد شد.\/او درد زیادی را تحمل کرده است.",
+"e": "She was born in Tehran\/She has borne a lot of pain",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Wring (فشردن) و Ring (حلقه)\nلطفاً لباس خیس را بفشارید.\/او یک حلقه نقره در انگشت خود داشت.",
+"e": "Please wring the wet clothes\/She had a silver ring on her finger",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Weather (آب و هوا) و Whether (آیا)\nآب و هوا امروز سرد و ابری است.\/نمی‌دانم آیا او خواهد آمد یا نه.",
+"e": "The weather is cold and cloudy today\/I do not know whether he will come or not",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Value و Worth (ارزش)\nارزش تاریخی این سکه چقدر است؟\/این تلاش ارزش هر دقیقه‌اش را داشت.",
+"e": "What is the historical value of this coin\/The effort was worth every minute of it",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Vain (بیهوده) و Vein (رگ)\nهمه تلاش‌های او بیهوده بود.\/خون در رگ‌های بازو جریان دارد.",
+"e": "All his efforts were in vain\/Blood flows through the vein in the arm",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Role (نقش) و Roll (چرخیدن\/رول)\nاو نقش مهمی در موفقیت شرکت ایفا کرد.\/او رول نان را با کره پوشاند.",
+"e": "She played an important role in the company's success\/He covered the roll of bread with butter",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Quite (کاملاً) و Quiet (ساکت)\nهوا امروز کاملاً سرد است.\/کودکان باید در طول مطالعه ساکت بمانند.",
+"e": "The weather is quite cold today\/Children must remain quiet during study time",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Popular (محبوب) و Populace (مردم)\nاین آهنگ در بین جوانان بسیار محبوب است.\/از مردم خواسته شد که در خانه بمانند.",
+"e": "This song is very popular among young people\/The populace was asked to stay at home",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Plane (هواپیما) و Plain (ساده\/دشت)\nهواپیما با تأخیر پرواز کرد.\/غذا ساده اما خوشمزه بود.",
+"e": "The plane took off late\/The food was plain but delicious",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Pedal (رکاب) و Peddle (دستفروشی کردن)\nاو مجبور شد برای سربالایی سخت رکاب بزند.\/او سعی کرد اجناس تقلبی را در خیابان دستفروشی کند.",
+"e": "He had to pedal hard up the hill\/He tried to peddle fake goods on the street",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Peak (اوج) و Peek (سرک کشیدن)\nآنها در اوج فصل گردشگری سفر کردند.\/لطفاً داخل جعبه سرک نکشید.",
+"e": "They traveled during the peak tourist season\/Please do not peek inside the box",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Passed (قبول شد) و Past (گذشته)\nاو در آزمون رانندگی قبول شد.\/ما باید گذشته را فراموش کنیم و به جلو حرکت کنیم.",
+"e": "She passed her driving test\/We must forget the past and move forward",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Media (رسانه‌ها) و Medium (واسطه\/متوسط)\nرسانه‌ها این خبر را به طور گسترده پوشش دادند.\/او برای برقراری ارتباط با مردگان به عنوان واسطه عمل می‌کرد.",
+"e": "The media covered the story extensively\/She acted as a medium to contact the dead",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Lightning (رعد و برق) و Lightening (روشن شدن)\nما صدای رعد و برق شدید را شنیدیم.\/با روشن شدن آسمان، می‌توانستیم بهتر ببینیم.",
+"e": "We heard the loud sound of lightning\/With the lightening of the sky, we could see better",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Expand (گسترش دادن) و Expend (مصرف کردن)\nشرکت قصد دارد فعالیت‌های خود را گسترش دهد.\/ما تمام پول خود را صرف تعمیر خانه کردیم.",
+"e": "The company intends to expand its operations\/We expended all our money on house repairs",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Device (ابزار) و Devise (ابداع کردن)\nاو یک ابزار جدید برای اندازه‌گیری دما اختراع کرد.\/آنها نقشه‌ای برای فرار ابداع کردند.",
+"e": "He invented a new device for measuring temperature\/They devised a plan for their escape",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Dear (عزیز) و Deer (گوزن)\nدوست عزیزم تولدت مبارک.\/ما در جنگل یک گوزن دیدیم.",
+"e": "Happy birthday my dear friend\/We saw a deer in the forest",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Chord (آکورد) و Cord (سیم)\nاو یک آکورد پیچیده روی گیتار نواخت.\/سیم برق را به پریز وصل کن.",
+"e": "He played a complex chord on the guitar\/Plug the electrical cord into the outlet",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Break (شکستن) و Brake (ترمز)\nاو سهواً گلدان را شکست.\/ناگهان مجبور شدم ترمز بگیرم.",
+"e": "She accidentally broke the vase\/I had to hit the brake suddenly",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Board (تخته) و Bored (بی‌حوصله)\nلطفاً شماره را روی تخته بنویس.\/من از تماشای تلویزیون حوصله‌ام سر رفت.",
+"e": "Please write the number on the board\/I got bored watching TV",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Who's (چه کسی است) و Whose (مال چه کسی)\nچه کسی مسئول این اشتباه است؟\/این کتاب مال چه کسی است؟",
+"e": "Who is responsible for this mistake\/Whose book is this",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Way (راه) و Weigh (وزن کردن)\nاین بهترین راه برای رسیدن به آنجا است.\/لطفاً سیب‌زمینی‌ها را وزن کنید.",
+"e": "This is the best way to get there\/Please weigh the potatoes",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Value و Worth (ارزش)\nارزش هنری نقاشی بالا است.\/این تلاش ارزشش را داشت.",
+"e": "The artistic value of the painting is high\/The effort was worth it",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Thought (فکر) و Though (اگرچه)\nمن یک فکر عالی داشتم.\/اگرچه هوا بد بود، ما بیرون رفتیم.",
+"e": "I had a brilliant thought\/Though the weather was bad, we went out",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Suite (مجموعه) و Sweet (شیرین)\nآنها در یک سوئیت هتل بزرگ اقامت داشتند.\/بستنی بسیار شیرین بود.",
+"e": "They stayed in a large hotel suite\/The ice cream was very sweet",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Story (داستان) و History (تاریخ)\nاو یک داستان جذاب برای ما تعریف کرد.\/ما در حال مطالعه تاریخ ایران باستان هستیم.",
+"e": "She told us a fascinating story\/We are studying ancient Iranian history",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Stake (سهم) و Steak (استیک)\nاو سهم خود را در شرکت از دست داد.\/او برای شام استیک سفارش داد.",
+"e": "He lost his stake in the company\/He ordered steak for dinner",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Soul (روح) و Sole (تنها)\nاو معتقد است روح پس از مرگ زنده می‌ماند.\/تنها دلیل او برای رفتن، خانواده‌اش بود.",
+"e": "She believes the soul lives on after death\/Her sole reason for leaving was her family",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Remind (یادآوری کردن) و Remember (به یاد آوردن)\nلطفاً قرار ملاقات فردا را به من یادآوری کن.\/آیا نام او را به یاد می‌آوری؟",
+"e": "Please remind me of the appointment tomorrow\/Do you remember his name",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Quite (کاملاً) و Quiet (ساکت)\nمن کاملاً مطمئن هستم که درست می‌گوید.\/لطفاً در کتابخانه ساکت باشید.",
+"e": "I am quite sure he is right\/Please be quiet in the library",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Moral (اخلاقی) و Morale (روحیه)\nاین یک تصمیم اخلاقی بود.\/روحیه تیم پس از باخت پایین بود.",
+"e": "This was a moral decision\/The team's morale was low after the defeat",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Minute (دقیقه) و Moment (لحظه)\nمنتظر من باش، فقط یک دقیقه طول می‌کشد.\/یک لحظه صبر کنید.",
+"e": "Wait for me, it will only take a minute\/Wait for a moment",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Maybe (شاید) و May Be (ممکن است باشد)\nشاید فردا به شما سر بزنم.\/او ممکن است پزشک باشد.",
+"e": "Maybe I will visit you tomorrow\/She may be a doctor",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Lose (از دست دادن) و Loss (ضرر)\nما نباید بازی را ببازیم.\/این شرکت متحمل ضرر مالی بزرگی شد.",
+"e": "We must not lose the game\/The company suffered a great financial loss",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Lie (دراز کشیدن) و Lay (قرار دادن)\nمن خسته هستم و می‌خواهم دراز بکشم.\/او گوشی خود را روی میز قرار داد.",
+"e": "I am tired and want to lie down\/She laid her phone on the desk",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Less (کمتر - غیرقابل شمارش) و Fewer (کمتر - قابل شمارش)\nامروز ترافیک کمتری وجود دارد.\/اینجا دانش‌آموزان کمتری نسبت به دیروز هستند.",
+"e": "There is less traffic today\/There are fewer students here than yesterday",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Ingenious (باهوش) و Ingenuous (ساده‌دل)\nاین یک راه‌حل واقعاً باهوشانه است.\/او بسیار ساده‌دل است و به راحتی فریب می‌خورد.",
+"e": "That is a truly ingenious solution\/She is very ingenuous and easily tricked",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Industrial (صنعتی) و Industrious (سخت کوش)\nاین یک منطقه صنعتی است.\/او یک کارگر بسیار سخت کوش است.",
+"e": "This is an industrial area\/He is a very industrious worker",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Idea (ایده) و Notion (تصور)\nمن یک ایده عالی برای پروژه دارم.\/او یک تصور مبهم از این که چه باید بکند داشت.",
+"e": "I have a great idea for the project\/She had a vague notion of what to do",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Hope (امید داشتن) و Wish (آرزو کردن)\nمن امیدوارم که فردا هوا خوب باشد.\/آرزو می‌کنم که یک میلیونر بودم.",
+"e": "I hope the weather is good tomorrow\/I wish I were a millionaire",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Find (پیدا کردن) و Found (تأسیس کردن)\nاو کلیدهای گم‌شده‌اش را پیدا کرد.\/آنها یک شرکت جدید تأسیس کردند.",
+"e": "She found her lost keys\/They founded a new company",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Fee (هزینه - خدمات) و Fare (هزینه - سفر)\nبرای عضویت باید یک هزینه بپردازید.\/کرایه اتوبوس چقدر است؟",
+"e": "You must pay a fee for membership\/What is the bus fare",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Envy (حسادت - حسرت) و Jealousy (حسادت - ترس از دست دادن)\nاو به دلیل شغل جدید من احساس حسادت کرد.\/او از توجهی که به برادرش می‌شد، دچار حسادت شد.",
+"e": "She felt envy because of my new job\/He felt jealousy over the attention his brother was receiving",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Economical (مقرون به صرفه) و Economic (اقتصادی)\nما یک روش مقرون به صرفه برای صرفه‌جویی در انرژی پیدا کردیم.\/بحران اقتصادی بر همه تأثیر گذاشت.",
+"e": "We found an economical way to save energy\/The economic crisis affected everyone",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Dream (رؤیا) و Goal (هدف)\nمن شب گذشته یک رؤیای عجیب دیدم.\/هدف او این است که بهترین بازیکن فوتبال شود.",
+"e": "I had a strange dream last night\/His goal is to become the best football player",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Couple و Pair (جفت)\nیک زوج جوان دست در دست هم راه می‌رفتند.\/من یک جفت دستکش جدید خریدم.",
+"e": "A young couple walked hand in hand\/I bought a new pair of gloves",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Climate (آب و هوا - کلی) و Weather (آب و هوا - جزیی)\nآب و هوای این منطقه سرد و خشک است.\/امروز آب و هوا بارانی و بادی است.",
+"e": "The climate of this region is cold and dry\/The weather today is rainy and windy",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Client (مشتری - خدمات) و Customer (مشتری - خرید)\nاو با مشتریان مهم خود جلسه داشت.\/این مغازه هر روز مشتریان زیادی دارد.",
+"e": "He had a meeting with his important clients\/This shop has many customers every day",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Check (بررسی کردن) و Control (کنترل کردن)\nلطفاً لیست را بررسی کنید که چیزی از قلم نیفتاده باشد.\/پلیس جمعیت را کنترل کرد.",
+"e": "Please check the list for any missing items\/The police controlled the crowd",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Artist (هنرمند) و Artisan (صنعتگر)\nاو یک هنرمند مشهور در نقاشی است.\/این قالی توسط یک صنعتگر محلی بافته شده است.",
+"e": "He is a famous artist in painting\/This carpet was woven by a local artisan",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Annual و Yearly (سالانه)\nآنها یک کنفرانس سالانه برگزار می‌کنند.\/ما سالی یک بار به مسافرت می‌رویم.",
+"e": "They hold an annual conference\/We go on a trip yearly",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Amount (مقدار - غیرقابل شمارش) و Number (تعداد - قابل شمارش)\nاو مقدار زیادی پول پس‌انداز کرده است.\/تعدادی از مردم در صف منتظر بودند.",
+"e": "She has saved a large amount of money\/A number of people were waiting in line",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Allow و Let (اجازه دادن)\nقانون به من اجازه می‌دهد رأی بدهم.\/اجازه نده این فرصت از دست برود.",
+"e": "The law allows me to vote\/Do not let this opportunity pass",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Adapt (سازگار شدن) و Adopt (به سرپرستی گرفتن)\nاو به سرعت با فرهنگ جدید سازگار شد.\/آنها تصمیم گرفتند یک بچه را به سرپرستی بگیرند.",
+"e": "He adapted quickly to the new culture\/They decided to adopt a baby",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Accept (قبول کردن) و Receive (دریافت کردن)\nمن دعوت او را قبول کردم.\/من دیروز یک بسته پستی دریافت کردم.",
+"e": "I accept his invitation\/I received a package yesterday",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Wander (سرگردان شدن) و Wonder (تعجب کردن)\nمن دوست دارم در جنگل سرگردان شوم.\/من تعجب می‌کنم که چرا او نیامد.",
+"e": "I like to wander in the woods\/I wonder why he did not come",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Sensible (منطقی) و Sensitive (حساس)\nاو همیشه در موقعیت‌های بحرانی منطقی عمل می‌کند.\/او نسبت به صدای بلند بسیار حساس است.",
+"e": "She is always sensible in a crisis\/She is very sensitive to loud noises",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Less (کمتر) و Fewer (کمتر)\nما زمان کمتری برای اتمام داریم.\/ما امسال بازدیدکنندگان کمتری داشتیم.",
+"e": "We have less time to finish\/We had fewer visitors this year",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Historic (تاریخی - مهم) و Historical (تاریخی - مربوط به گذشته)\nاین یک رویداد تاریخی است.\/او در حال مطالعه اسناد تاریخی است.",
+"e": "This is a historic event\/He is studying historical documents",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Economic (اقتصادی) و Economical (مقرون به صرفه)\nما باید به وضعیت اقتصادی کشور توجه کنیم.\/یک ماشین کوچک اغلب مقرون به صرفه‌تر است.",
+"e": "We must pay attention to the economic situation of the country\/A small car is often more economical",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Lie (دراز کشیدن) و Lay (قرار دادن)\nمن روی مبل دراز می‌کشم.\/من کتاب را روی میز قرار می‌دهم.",
+"e": "I lie down on the couch\/I lay the book on the table",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Job (شغل - کار خاص) و Work (کار - فعالیت)\nاو به دنبال یک شغل جدید می‌گردد.\/او تمام بعد از ظهر مشغول کار بود.",
+"e": "He is looking for a new job\/He was busy doing work all afternoon",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Cost (هزینه - تولید\/خرید) و Price (قیمت - مصرف کننده)\nهزینه تولید هر واحد چقدر است؟\/قیمت نهایی برای مشتری چقدر است؟",
+"e": "What is the cost of producing each unit\/What is the final price for the customer",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Die (مردن) و Dye (رنگ کردن)\nاگر گیاه آب نخورد می‌میرد.\/او تصمیم گرفت موهایش را رنگ کند.",
+"e": "The plant will die if it does not get water\/She decided to dye her hair",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Then (سپس) و Than (از)\nما شام خوردیم و سپس فیلم دیدیم.\/او از برادرش بلندتر است.",
+"e": "We ate dinner and then watched a movie\/He is taller than his brother",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Can (توانستن - توانایی) و May (توانستن - اجازه)\nمن می‌توانم آن جعبه سنگین را بلند کنم.\/آیا می‌توانم وارد شوم؟",
+"e": "I can lift that heavy box\/May I come in",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Among (بین - بیش از دو) و Between (بین - دو)\nمن بین دو گزینه مردد هستم.\/او بین جمعیت ایستاده بود.",
+"e": "I am undecided between the two options\/She was standing among the crowd",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Already (قبلاً) و All Ready (همگی آماده)\nمن قبلاً تکالیفم را انجام داده‌ام.\/آیا همگی برای رفتن آماده هستید؟",
+"e": "I have already done my homework\/Are you all ready to go",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Site (مکان) و Sight (دید)\nآنها یک مکان جدید برای ساخت و ساز انتخاب کردند.\/بینایی او به دلیل بیماری ضعیف شده است.",
+"e": "They chose a new site for construction\/Her sight has weakened due to illness",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Ensure (مطمئن ساختن) و Insure (بیمه کردن)\nلطفا مطمئن شوید که درب قفل است.\/من خانه خود را در برابر آتش بیمه می‌کنم.",
+"e": "Please ensure the door is locked\/I insure my house against fire",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Later (بعداً) و Latter (دومی)\nمن می‌توانم بعداً به شما زنگ بزنم.\/از بین قهوه و چای، من دومی را ترجیح می‌دهم.",
+"e": "I can call you later\/Between coffee and tea, I prefer the latter",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Its (مال آن) و It's (آن است)\nسگ استخوان خود را پنهان کرد.\/آن یک روز آفتابی است.",
+"e": "The dog hid its bone\/It is a sunny day",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Personal (شخصی) و Personnel (کارکنان)\nاین یک موضوع کاملاً شخصی است.\/همه کارکنان در جلسه شرکت کردند.",
+"e": "This is a purely personal matter\/All personnel attended the meeting",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Hole (سوراخ) و Whole (تمام)\nدر جورابم یک سوراخ کوچک است.\/من تمام روز منتظر ماندم.",
+"e": "There is a small hole in my sock\/I waited the whole day",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Desert (بیابان) و Dessert (دسر)\nآنها در بیابان گم شدند.\/او برای دسر کیک شکلاتی سفارش داد.",
+"e": "They got lost in the desert\/She ordered chocolate cake for dessert",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Adopt (به فرزندی گرفتن) و Adapt (سازگار شدن)\nآنها تصمیم گرفتند کودکی را به فرزندی بگیرند.\/او باید با شرایط جدید سازگار شود.",
+"e": "They decided to adopt a child\/She must adapt to the new conditions",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Accept (قبول کردن) و Except (بجز)\nاو دعوت من را پذیرفت.\/همه به جز او آمدند.",
+"e": "She accepted my invitation\/Everyone came except him",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Emigrate (مهاجرت کردن - خروج) و Immigrate (مهاجرت کردن - ورود)\nاو از کشور خود مهاجرت کرد.\/او به کانادا مهاجرت کرد.",
+"e": "She emigrated from her home country\/She immigrated to Canada",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Farther (دورتر - مسافت فیزیکی) و Further (بیشتر - مسافت غیرفیزیکی)\nخانه من از مدرسه دورتر است.\/من برای تصمیم‌گیری به اطلاعات بیشتری نیاز دارم.",
+"e": "My house is farther from the school\/I need further information to decide",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Advice (مشاوره) و Advise (نصیحت کردن)\nلطفاً به من یک راهنمایی خوب بده.\/من به او توصیه می‌کنم سخت‌تر درس بخواند.",
+"e": "Please give me some good advice\/I advise him to study harder",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Loose (شل) و Lose (از دست دادن)\nپیراهن جدید من کمی شل است.\/نمی‌خواهم کلیدهایم را گم کنم.",
+"e": "My new shirt is a little loose\/I do not want to lose my keys",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Look (نگاه کردن) و See (دیدن - لحظه‌ای) و Watch (تماشا کردن - هدفمند)\nبه آن نقاشی زیبا نگاه کن!\/من یک پرنده را در آسمان دیدم.",
+"e": "Look at that beautiful painting\/I saw a bird in the sky",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Hear (شنیدن - ناخودآگاه) و Listen (گوش دادن - هدفمند)\nمی‌توانم صدای موسیقی را بشنوم.\/من به موسیقی مورد علاقه‌ام گوش می‌دهم.",
+"e": "I can hear the music\/I listen to my favorite music",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Borrow (قرض گرفتن) و Lend (قرض دادن)\nمی‌توانم قلم تو را قرض بگیرم؟\/می‌توانی یک خودکار به من قرض بدهی؟",
+"e": "Can I borrow your pen\/Can you lend me a pen",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Say (گفتن - بدون مخاطب) و Tell (گفتن - با مخاطب)\nاو گفت که دیر خواهد آمد.\/او به ما گفت که دیر خواهد آمد.",
+"e": "He said he would be late\/He told us he would be late",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Affect (تأثیر گذاشتن - فعل) و Effect (تأثیر - اسم)\nتصمیمات او زندگی ما را تحت تأثیر قرار داد.\/تصمیمات او چه تأثیری بر زندگی ما داشت؟",
+"e": "His decisions affected our lives\/What effect did his decisions have on our lives",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "Steal (دزدیدن - شیء) و Rob (دستبرد زدن - مکان\/شخص)\nاو پول‌ها را دزدید.\/او به بانک دستبرد زد.",
+"e": "He stole the money\/He robbed the bank",
+"t": "تفاوت جمله‌ها"
+},
+{
+"p": "ترفیع گرفتم.",
+"e": "I got a promotion",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "به امید موفقیت شما!",
+"e": "Wishing you success!",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "از این مکالمه لذت بردم.",
+"e": "I enjoyed our conversation.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "حدس می‌زنم باید برگردم سر کار.",
+"e": "I guess I should get back to work.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "من او را در ایستگاه اتوبوس (at) ، در یک روز بارانی(on) ، در ماه نوامبر(in) ملاقات کردم",
+"e": "I met her at the bus stop on a rainy day in November",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "من او را در کافه(at) ، در جمعه(on) ، در بعدازظهر(in) ملاقات کردم",
+"e": "I met him at the café on Friday in the afternoon",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "امیدوارم هفته‌ی خوبی در پیش داشته باشید.",
+"e": "Hope you have a good week ahead.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "بهترین‌ها برای شما!",
+"e": "All the best to you!",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "آیا بعد از کار برنامه‌ای دارید؟",
+"e": "Do you have plans after work?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "شما جوان‌تر از سنتان به نظر می‌آیید.",
+"e": "You look younger than your age.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "می‌تونم سنتون رو بپرسم؟",
+"e": "May I ask your age?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "امیدوارم مزاحم نشده باشم.",
+"e": "I hope I'm not interrupting.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "چه زمانی برای شما مناسب‌تر است؟",
+"e": "What time works best for you?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "شما به دنبال چه چیزی هستید؟",
+"e": "What are you looking for?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "آیا چیزی را گم کرده‌اید؟",
+"e": "Are you missing anything?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "بهترین سفری که داشتید، کجا بود؟",
+"e": "Where was your best trip?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "این یک رویداد عالی است!",
+"e": "This is a great event!",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "خانواده‌تان چطورند؟",
+"e": "How is your family?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "از شنیدنش خوشحالم!",
+"e": "I'm glad to hear that!",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "امروز چطور شروع شد؟",
+"e": "How did your day start?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "تا دفعه‌ی بعد!",
+"e": "Until next time!",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "بعداً.",
+"e": "Later.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "بهترین‌ها را برایت آرزو می‌کنم.",
+"e": "I wish you all the best.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "برنامه‌های آینده‌تان چیست؟",
+"e": "What are your future plans?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "می‌شه بگید چطور هجی می‌شه؟",
+"e": "Could you spell that for me?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "چه اسم جالبی!",
+"e": "What an interesting name!",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "آیا مشغول پروژه‌ی خاصی هستید؟",
+"e": "Are you working on any projects?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "خیلی خوشحال شدم که شما را دیدم.",
+"e": "I was so happy to see you.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "امروز هوا چطور است؟",
+"e": "How's the weather today?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "امیدوارم همه چیز به خوبی پیش برود.",
+"e": "I hope everything goes well.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "بنشینید.",
+"e": "Have a seat.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "چی شما را به اینجا آورد؟",
+"e": "What brings you here?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "این یک سورپرایز دلپذیر بود.",
+"e": "This is a pleasant surprise.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "خیلی وقت است که با هم حرف نزدیم.",
+"e": "We haven’t talked in ages.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "امیدوارم به زودی شما را ببینم.",
+"e": "Hope to see you again soon.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "شما چه زمانی به اینجا رسیدید؟",
+"e": "When did you get here?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "از اینجا خوشتان می‌آید؟",
+"e": "How do you like it here?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "شماره تماس شما چیست؟",
+"e": "What is your phone number?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "می‌شه کارت ویزیت‌تان را داشته باشم؟",
+"e": "Could I have your business card?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "کجا زندگی می‌کنید؟",
+"e": "Where do you live?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "من در ایران بزرگ شدم.",
+"e": "I grew up in Iran.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "آیا شما اهل این حوالی هستید؟",
+"e": "Are you from around here?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "این اولین باری است که به شهر می‌آیم.",
+"e": "This is my first time in city.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "من فقط برای مدتی اینجا هستم.",
+"e": "I’m just here for a while.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "شما آشنا به نظر می‌آیید.",
+"e": "You look familiar.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "آیا قبلاً همدیگر را دیده‌ایم؟",
+"e": "Have we met before?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "می‌توانم بپرسم شما کی هستید؟",
+"e": "May I ask who you are?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "بعداً بهت زنگ می‌زنم.",
+"e": "I'll call you later.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "باید بروم.",
+"e": "I gotta go.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "فعلاً خداحافظ.",
+"e": "Bye for now.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "مراقب خودت باش.",
+"e": "Take care.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "روز خوبی داشته باشید.",
+"e": "Have a good day.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "چه کار می‌کنی؟",
+"e": "What do you do?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "من اهل... هستم.",
+"e": "I’m from...",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "از ملاقات شما بسیار خوشحالم.",
+"e": "It’s a pleasure to meet you.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "از دیدار مجدد شما خوشحالم.",
+"e": "It's great to see you again.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "عالی هستم.",
+"e": "I'm wonderful.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "خیلی خوبم، ممنون.",
+"e": "I’m great, thanks.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "از دیدنت خوشحالم.",
+"e": "It's good to see you.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "مدت طولانی ندیدمت.",
+"e": "Long time no see.",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "چه خبر؟",
+"e": "What's new?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "چه خبر؟",
+"e": "What's up?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "حالت چطوره؟",
+"e": "How are you doing?",
+"t": "احوالپرسی و آشنایی"
+},
+{
+"p": "من تسلیم نمی‌شوم.",
+"e": "I'm not giving up",
+"t": "احساسات"
+},
+{
+"p": "درکت می‌کنم.🖤",
+"e": "I understand you",
+"t": "احساسات"
+},
+{
+"p": "پشتتم.🤎",
+"e": "I'm here for you",
+"t": "احساسات"
+},
+{
+"p": "تحسینت می‌کنم.💜",
+"e": "I admire you",
+"t": "احساسات"
+},
+{
+"p": "تو برام خاصی.🩷",
+"e": "You're special to me",
+"t": "احساسات"
+},
+{
+"p": "ازت حمایت می‌کنم.💚",
+"e": "I support you",
+"t": "احساسات"
+},
+{
+"p": "بهت اعتماد دارم.💙",
+"e": "I trust you",
+"t": "احساسات"
+},
+{
+"p": "قدردانت هستم.💛",
+"e": "I appreciate you",
+"t": "احساسات"
+},
+{
+"p": "من بهت اهمیت می‌دم.🧡",
+"e": "I care about you",
+"t": "احساسات"
+},
+{
+"p": "باید به غریزه‌ات اعتماد کنی.",
+"e": "You have to trust your gut",
+"t": "احساسات"
+},
+{
+"p": "نمی‌توانم آن را تحمل کنم.",
+"e": "I can't stand it",
+"t": "احساسات"
+},
+{
+"p": "من به احساسات کسی صدمه نزده‌ام.",
+"e": "I didn't hurt anyone's feelings",
+"t": "احساسات"
+},
+{
+"p": "من کاملاً غرق شدم.",
+"e": "I was completely absorbed",
+"t": "احساسات"
+},
+{
+"p": "این باعث شد احساس کنم چقدر خوش‌شانسم.",
+"e": "It made me feel so lucky",
+"t": "احساسات"
+},
+{
+"p": "من سعی می‌کنم که عصبانی نشوم.",
+"e": "I'm trying not to blow a fuse",
+"t": "احساسات"
+},
+{
+"p": "من پای کاری که کردم، می‌ایستم.",
+"e": "I stand by what I did",
+"t": "احساسات"
+},
+{
+"p": "این مرا خندان نگه می‌دارد.",
+"e": "It keeps me smiling",
+"t": "احساسات"
+},
+{
+"p": "من به خودم اعتماد دارم.",
+"e": "I trust myself",
+"t": "احساسات"
+},
+{
+"p": "من سعی می‌کنم مثبت بمانم.",
+"e": "I'm trying to stay positive",
+"t": "احساسات"
+},
+{
+"p": "احساس می‌کنم زندگی‌ام در حال تغییر است.",
+"e": "I feel my life is changing",
+"t": "احساسات"
+},
+{
+"p": "فقط باید ذهنم را آزاد کنم.",
+"e": "I just need to clear my head",
+"t": "احساسات"
+},
+{
+"p": "این به من امید می‌دهد.",
+"e": "It gives me hope",
+"t": "احساسات"
+},
+{
+"p": "این برای من یک زنگ بیدارباش بود.",
+"e": "It was a wake-up call for me",
+"t": "احساسات"
+},
+{
+"p": "من بابت آن متأسفم.",
+"e": "I'm sorry about that",
+"t": "احساسات"
+},
+{
+"p": "من در حال یادگیری کنترل خودم هستم.",
+"e": "I'm learning to keep my cool",
+"t": "احساسات"
+},
+{
+"p": "من کاملاً بی‌حس شده‌ام.",
+"e": "I feel totally numb",
+"t": "احساسات"
+},
+{
+"p": "من برایت خوشحالم.",
+"e": "I'm happy for you",
+"t": "احساسات"
+},
+{
+"p": "این برای من ارزش زیادی دارد.",
+"e": "It means a lot to me",
+"t": "احساسات"
+},
+{
+"p": "این یک کابوس بود.",
+"e": "It was a nightmare",
+"t": "احساسات"
+},
+{
+"p": "باید اجازه بدهی که فراموش شود.",
+"e": "You have to let it go",
+"t": "احساسات"
+},
+{
+"p": "من فقط می‌خواستم مطمئن باشم.",
+"e": "I just wanted to be sure",
+"t": "احساسات"
+},
+{
+"p": "تو مرا خیلی خوشحال می‌کنی.",
+"e": "You make me so happy",
+"t": "احساسات"
+},
+{
+"p": "این باعث شد احساس ناتوانی کنم.",
+"e": "It made me feel helpless",
+"t": "احساسات"
+},
+{
+"p": "نمی‌دانم به چه کسی اعتماد کنم.",
+"e": "I don't know who to trust",
+"t": "احساسات"
+},
+{
+"p": "من در وضعیت بدی هستم.",
+"e": "I'm in a bad place",
+"t": "احساسات"
+},
+{
+"p": "من فقط می‌خواستم ازت تشکر کنم.",
+"e": "I just wanted to say thank you",
+"t": "احساسات"
+},
+{
+"p": "من متوجه‌ام.",
+"e": "I hear you",
+"t": "احساسات"
+},
+{
+"p": "من کمی احساس تنهایی می‌کنم.",
+"e": "I'm feeling a bit lonely",
+"t": "احساسات"
+},
+{
+"p": "تو خیلی با ملاحظه هستی.",
+"e": "You're so thoughtful",
+"t": "احساسات"
+},
+{
+"p": "این به من آرامش می‌دهد.",
+"e": "It gives me comfort",
+"t": "احساسات"
+},
+{
+"p": "فکر می‌کنم باید یک استراحت کنم.",
+"e": "I think I need a break",
+"t": "احساسات"
+},
+{
+"p": "ما نیاز داریم به جلو حرکت کنیم.",
+"e": "We need to move on",
+"t": "احساسات"
+},
+{
+"p": "من فقط دارم باهاش کنار میام.",
+"e": "I'm just dealing with it",
+"t": "احساسات"
+},
+{
+"p": "آیا شما دلخور هستید؟",
+"e": "Are you feeling resentful?",
+"t": "احساسات"
+},
+{
+"p": "من نمی‌توانم با این کنار بیایم.",
+"e": "I can't cope with this",
+"t": "احساسات"
+},
+{
+"p": "احساس گناه می‌کنم.",
+"e": "I feel guilty",
+"t": "احساسات"
+},
+{
+"p": "من خیلی مصمم هستم.",
+"e": "I'm very determined",
+"t": "احساسات"
+},
+{
+"p": "احساس لرزش می‌کنم.",
+"e": "I feel shaky",
+"t": "احساسات"
+},
+{
+"p": "این اشک به چشمانم آورد.",
+"e": "It brought tears to my eyes",
+"t": "احساسات"
+},
+{
+"p": "این باعث شد نسبت به همه‌چیز احساس خوبی داشته باشم.",
+"e": "It made me feel good about everything",
+"t": "احساسات"
+},
+{
+"p": "باید کمی دل و جرأت داشته باشی.",
+"e": "You need to bite the bullet",
+"t": "احساسات"
+},
+{
+"p": "احساس می‌کنم یک بار سنگین از دوشم برداشته شده.",
+"e": "I feel a weight lifted off my shoulders",
+"t": "احساسات"
+},
+{
+"p": "از خودم متنفرم.",
+"e": "I hate myself",
+"t": "احساسات"
+},
+{
+"p": "کمی معذب هستم.",
+"e": "I'm a little bit awkward",
+"t": "احساسات"
+},
+{
+"p": "واقعاً می‌خواهم فریاد بزنم.",
+"e": "I really want to scream",
+"t": "احساسات"
+},
+{
+"p": "من دارم از خودم ناامید می‌شوم.",
+"e": "I'm disappointed in myself",
+"t": "احساسات"
+},
+{
+"p": "این واقعاً مرا آزرده خاطر کرد.",
+"e": "That deeply offended me",
+"t": "احساسات"
+},
+{
+"p": "این مرا تا حد مرگ ترساند.",
+"e": "It scared me to death",
+"t": "احساسات"
+},
+{
+"p": "فقط کمی خلوت می‌خواهم.",
+"e": "I just need some space",
+"t": "احساسات"
+},
+{
+"p": "واقعاً دلم می‌خواهد گریه کنم.",
+"e": "I really feel like crying",
+"t": "احساسات"
+},
+{
+"p": "خیلی مشتاق به نظر می‌رسی!",
+"e": "You look so enthusiastic",
+"t": "احساسات"
+},
+{
+"p": "به خودم افتخار می‌کنم.",
+"e": "I'm proud of myself",
+"t": "احساسات"
+},
+{
+"p": "باید قوی بمانی.",
+"e": "You have to stay strong",
+"t": "احساسات"
+},
+{
+"p": "آن مرا به فکر فرو برد.",
+"e": "That made me think",
+"t": "احساسات"
+},
+{
+"p": "من آن را شخصی نگرفتم.",
+"e": "I didn't take it personally",
+"t": "احساسات"
+},
+{
+"p": "من کاملاً با تو موافقم.",
+"e": "I completely agree with you",
+"t": "احساسات"
+},
+{
+"p": "من پر از شادی هستم.",
+"e": "I'm filled with joy",
+"t": "احساسات"
+},
+{
+"p": "آن باعث شد لبخند بزنم.",
+"e": "That brought a smile to my face",
+"t": "احساسات"
+},
+{
+"p": "فقط می‌خواهم تنها باشم.",
+"e": "I just want to be alone",
+"t": "احساسات"
+},
+{
+"p": "احساس سبکی و آزادی می‌کنم.",
+"e": "I feel light and free",
+"t": "احساسات"
+},
+{
+"p": "من خیلی خسته هستم.",
+"e": "I'm feeling so beat",
+"t": "احساسات"
+},
+{
+"p": "خیلی خوب است که تو اینجا هستی.",
+"e": "It's great to have you here",
+"t": "احساسات"
+},
+{
+"p": "من کمی احساس حسادت می‌کنم.",
+"e": "I'm feeling a little jealous",
+"t": "احساسات"
+},
+{
+"p": "احساس پوچی می‌کنم.",
+"e": "I feel empty inside",
+"t": "احساسات"
+},
+{
+"p": "فکر می‌کنم کمی احساساتی شده‌ام.",
+"e": "I think I'm getting emotional",
+"t": "احساسات"
+},
+{
+"p": "احساس می‌کنم تحت فشارم.",
+"e": "I feel under pressure",
+"t": "احساسات"
+},
+{
+"p": "کاملاً آرام هستم.",
+"e": "I'm perfectly calm",
+"t": "احساسات"
+},
+{
+"p": "این واقعاً مرا ناراحت کرد.",
+"e": "That really upset me",
+"t": "احساسات"
+},
+{
+"p": "من یک کم ترسیده‌ام.",
+"e": "I'm a little scared",
+"t": "احساسات"
+},
+{
+"p": "احساس آرامش و امنیت می‌کنم.",
+"e": "I feel safe and secure",
+"t": "احساسات"
+},
+{
+"p": "دارم دیوانه می‌شوم.",
+"e": "I'm going crazy",
+"t": "احساسات"
+},
+{
+"p": "خیلی دلم برایت تنگ شده است.",
+"e": "I miss you so much",
+"t": "احساسات"
+},
+{
+"p": "من کاملاً گیجم.",
+"e": "I'm completely confused",
+"t": "احساسات"
+},
+{
+"p": "روی اعصابم است.",
+"e": "It's getting on my nerves",
+"t": "احساسات"
+},
+{
+"p": "حس می‌کنم روی ابرا هستم.",
+"e": "I'm walking on air",
+"t": "احساسات"
+},
+{
+"p": "کمی مضطرب هستم.",
+"e": "I'm a little bit anxious",
+"t": "احساسات"
+},
+{
+"p": "حالم گرفته است.",
+"e": "I'm feeling down",
+"t": "احساسات"
+},
+{
+"p": "خیلی از این بابت هیجان‌زده‌ام.",
+"e": "I'm thrilled about it",
+"t": "احساسات"
+},
+{
+"p": "من حس و حال خوبی ندارم.",
+"e": "I'm not feeling well",
+"t": "احساسات"
+},
+{
+"p": "خیلی خوشحالم که این اتفاق افتاد.",
+"e": "I'm so glad that happened",
+"t": "احساسات"
+},
+{
+"p": "وسایلم از اتاق دزدیده شد.",
+"e": "My things were stolen from the room",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من نیاز به کمک ویژه دارم.",
+"e": "I need special assistance",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من داروی خاصی مصرف می‌کنم.",
+"e": "I take special medication",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "کودکم گریه می‌کند.",
+"e": "My child is crying",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من خیلی می‌ترسم، کنارم بمانید.",
+"e": "I’m very scared, stay with me",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "کجا می‌توانم امن باشم؟",
+"e": "Where can I be safe?",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "اگر دارویم را نخورم خطرناک است.",
+"e": "If I don’t take my medicine, it’s dangerous",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "تلفنم شارژ ندارد.",
+"e": "My phone is dead",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من وکیلم را می‌خواهم.",
+"e": "I want my lawyer",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "اجازه دهید توضیح بدهم.",
+"e": "Let me explain",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "پلیس مرا متوقف کرده است.",
+"e": "The police stopped me",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "به من پول قرض بدهید.",
+"e": "Lend me some money",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "ماشین خودپرداز کار نمی‌کند.",
+"e": "The ATM is not working",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "در قفل نمی‌شود.",
+"e": "The door won’t lock",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "کسی وارد اتاق من شده است.",
+"e": "Someone entered my room",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "اتفاق بدی در هتل افتاده است.",
+"e": "Something bad happened at the hotel",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "تعمیرگاه کجاست؟",
+"e": "Where is a repair shop?",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من در جاده گیر کرده‌ام.",
+"e": "I’m stuck on the road",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "تایر ماشینم پنچر است.",
+"e": "My tire is flat",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "بنزین تمام کرده‌ام.",
+"e": "I ran out of gas",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من بوی گاز استشمام می‌کنم.",
+"e": "I smell gas",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من در آسانسور گیر کرده‌ام.",
+"e": "I’m stuck in the elevator",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "مسیر را باز کنید.",
+"e": "Clear the way",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "هوای بیرون خطرناک است.",
+"e": "The weather outside is dangerous",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "او آخرین بار اینجا دیده شد.",
+"e": "He was last seen here",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "با خانواده‌ام تماس بگیرید.",
+"e": "Call my family",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "آیا کسی می‌تواند ترجمه کند؟",
+"e": "Can someone translate?",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "فشار خونم خیلی بالاست.",
+"e": "My blood pressure is very high",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "دستم شکسته است.",
+"e": "My arm is broken",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "آیا کسی زبان من را می‌فهمد؟",
+"e": "Does anyone understand my language?",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "مار مرا نیش زده است.",
+"e": "A snake bit me",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "یک حیوان به من حمله کرده است.",
+"e": "An animal attacked me",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من خونریزی داخلی دارم.",
+"e": "I have internal bleeding",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من نمی‌توانم نفس بکشم.",
+"e": "I can’t breathe",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "او سکته کرده است.",
+"e": "He’s having a stroke",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "او اسلحه دارد.",
+"e": "He has a weapon",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من تهدید شده‌ام.",
+"e": "I’ve been threatened",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "کسی مرا دنبال می‌کند.",
+"e": "Someone is following me",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "پاسپورتم گم شده است.",
+"e": "My passport is missing",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "کیفم دزدیده شد.",
+"e": "My bag was stolen",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "یک سرقت در حال انجام است.",
+"e": "There’s a robbery in progress",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "راه خروج مسدود است.",
+"e": "The exit is blocked",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "خانه در حال سوختن است.",
+"e": "The house is on fire",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "عجله کنید، من در خطرم.",
+"e": "Hurry, I am in danger",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من در خیابان گم شده‌ام.",
+"e": "I’m lost on the street",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "سریع بیایید.",
+"e": "Come quickly",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "او بیهوش شده است.",
+"e": "He’s unconscious",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "او نفس نمی‌کشد.",
+"e": "He’s not breathing",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "او خونریزی دارد.",
+"e": "He is bleeding",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "یکی زخمی شده است.",
+"e": "Someone is hurt",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "یک تصادف رخ داده است.",
+"e": "There’s been an accident",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "من به کمک فوری نیاز دارم.",
+"e": "I need immediate help",
+"t": "موقعیت‌های اضطراری"
+},
+{
+"p": "آیا نقشه مترو دارید؟",
+"e": "Do you have a subway map?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چمدان من گم شده است.",
+"e": "My luggage is lost",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چه کسی منتظر من است؟",
+"e": "Who is waiting for me?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کولر را روشن کنید.",
+"e": "Turn on the air conditioner",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا غذای داخل پرواز رایگان است؟",
+"e": "Is the meal on the flight free?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کمربند ایمنی را ببندید.",
+"e": "Fasten your seatbelt",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "باید چمدان را وزن کنم؟",
+"e": "Do I need to weigh my luggage?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "این صندلی خالی است؟",
+"e": "Is this seat free?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چراغ را روشن کنید.",
+"e": "Turn on the light",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "می‌توانم مسیر را روی نقشه ببینم؟",
+"e": "Can I see the route on the map?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "مسافت تا فرودگاه چقدر است؟",
+"e": "How far is the airport?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "مرا نزدیک ایستگاه مترو پیاده کنید.",
+"e": "Drop me near the subway station",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "به من رسید بدهید.",
+"e": "Give me a receipt",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "لطفاً سریع‌تر حرکت کنید.",
+"e": "Please move faster",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "پرواز من کدام گیت است؟",
+"e": "Which gate is my flight?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "می‌توانم بلیط یک‌طرفه بخرم؟",
+"e": "Can I buy a one-way ticket?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "صندوق عقب را باز کنید.",
+"e": "Open the trunk",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "پرواز چند دقیقه تأخیر دارد؟",
+"e": "How many minutes is the flight delayed?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "اینجا محل بازرسی امنیتی است؟",
+"e": "Is this the security checkpoint?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا این قطار سریع‌السیر است؟",
+"e": "Is this a high-speed train?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "ساعت پرواز تغییر کرده است.",
+"e": "The flight time has changed",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "در این خیابان بپیچید.",
+"e": "Turn onto this street",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "ماشین اجاره‌ای را کجا پس بدهم؟",
+"e": "Where should I return the rental car?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "اینجا محل سوار شدن است؟",
+"e": "Is this the boarding area?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا بلیط رفت و برگشت دارید؟",
+"e": "Do you have a round-trip ticket?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چمدان من جا نمی‌شود.",
+"e": "My luggage doesn’t fit",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چمدان مرا وزن کنید.",
+"e": "Weigh my luggage",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا این پرواز توقف دارد؟",
+"e": "Does this flight have a layover?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چگونه می‌توانم به مرکز شهر بروم؟",
+"e": "How can I get to downtown?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "ساعت سوار شدن به هواپیما چه موقع است؟",
+"e": "What time is the boarding?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چه مدت در صف امنیت می‌مانیم؟",
+"e": "How long is the security line?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "مرا به هتل برسانید.",
+"e": "Take me to the hotel",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "می‌خواهم مسیر را روی نقشه ببینم.",
+"e": "I want to see the route on the map",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "نزدیک‌ترین پمپ بنزین کجاست؟",
+"e": "Where is the nearest gas station?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "ماشین من خراب شده است.",
+"e": "My car broke down",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چمدان من آسیب دیده است.",
+"e": "My luggage is damaged",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا پرواز به موقع انجام می‌شود؟",
+"e": "Is the flight on time?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "در ایستگاه بعدی پیاده شوید.",
+"e": "Get off at the next stop",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا این صندلی رزرو شده است؟",
+"e": "Is this seat reserved?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا باید کمربند ایمنی ببندم؟",
+"e": "Do I have to wear a seatbelt?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چقدر بار می‌توانم همراه داشته باشم؟",
+"e": "How much luggage can I take?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کرایه را نقدی می‌پردازید یا با کارت؟",
+"e": "Do you pay the fare by cash or card?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "یک تاکسی خبر کنید",
+"e": "Call a taxi",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا مسیر کوتاه‌تری وجود دارد؟",
+"e": "Is there a shorter route?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "مرا اینجا پیاده کنید.",
+"e": "Drop me off here",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کجا می‌توانم بنزین بزنم؟",
+"e": "Where can I get gas?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا می‌توانم دوچرخه کرایه کنم؟",
+"e": "Can I rent a bike?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چمدانم سنگین است.",
+"e": "My suitcase is heavy",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کارت پروازم را گم کرده‌ام.",
+"e": "I lost my boarding pass",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "می‌توانم کارت پروازم را بگیرم؟",
+"e": "Can I get my boarding pass?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "چه زمانی هواپیما فرود می‌آید؟",
+"e": "When does the plane land?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا پرواز من تأخیر دارد؟",
+"e": "Is my flight delayed?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "ایستگاه مترو کجاست؟",
+"e": "Where is the subway station?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "به من صندلی کنار پنجره بدهید.",
+"e": "Give me a window seat",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "اتوبوس بعدی کی می‌آید؟",
+"e": "When is the next bus coming?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "مرا به این آدرس ببرید.",
+"e": "Take me to this address",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "آیا پرواز مستقیم دارید؟",
+"e": "Do you have a direct flight?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کرایه تاکسی چقدر است؟",
+"e": "How much is the taxi fare?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "قطار کی حرکت می‌کند؟",
+"e": "When does the train leave?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کجا باید بلیط بخرم؟",
+"e": "Where should I buy the ticket?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "کجا می‌توانم تاکسی بگیرم؟",
+"e": "Where can I get a taxi?",
+"t": "سفر و حمل و نقل"
+},
+{
+"p": "از داروهای روانپزشکی درست استفاده کن.",
+"e": "Use psychiatric meds properly",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "معاینه سرطان سینه مهم است.",
+"e": "Breast cancer screening is important",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "بهداشت زنان مهم است.",
+"e": "Women’s health is important",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "وزنت را کنترل کن.",
+"e": "Maintain a healthy weight",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "سیستم ایمنی بدنت را تقویت کن.",
+"e": "Boost your immune system",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "پیشگیری بهتر از درمان است.",
+"e": "Prevention is better than cure",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "باید معاینات دوره‌ای داشته باشی.",
+"e": "You need regular checkups",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "هزینه درمان بالاست.",
+"e": "The treatment is costly",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "پرستار مراقبت خواهد کرد.",
+"e": "The nurse will take care",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "نیاز به عمل جراحی داری.",
+"e": "You need surgery",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "باید چند روز بمانی.",
+"e": "You need to stay for a few days",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "باید بستری بشی.",
+"e": "You need to be hospitalized",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دارو را به موقع بخور.",
+"e": "Take your medicine on time",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "از استرس دوری کن.",
+"e": "Avoid stress",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "غذای سبک بخور.",
+"e": "Eat light food",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "آب بنوش.",
+"e": "Drink water",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "جعبه کمک‌های اولیه داری؟",
+"e": "Do you have a first aid kit?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "نیاز به بخیه دارم.",
+"e": "I need stitches",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "زخمم باز شده است.",
+"e": "My wound is open",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "بینی‌ام می‌خارد.",
+"e": "My nose itches",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "حساسیت فصلی دارم.",
+"e": "I have seasonal allergies",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "استفراغ کردم.",
+"e": "I threw up",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "من حالت تهوع دارم.",
+"e": "I feel nauseous",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "حالت تهوع داری؟",
+"e": "Do you feel nauseous?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "صدای زنگ توی گوشم است.",
+"e": "I have ringing in my ears",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "گوشم درد می‌کند.",
+"e": "My ear hurts",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "چشمانم تار می‌بیند.",
+"e": "My vision is blurry",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "مسواک بزن.",
+"e": "Brush your teeth",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "باید بیشتر بخوابی.",
+"e": "You should get more sleep",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "بهداشت خواب مهم است.",
+"e": "Sleep hygiene is important",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "قند خونت را چک کردی؟",
+"e": "Did you check your blood sugar?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "فشار خونم پایین است.",
+"e": "My blood pressure is low",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "حالم دارد بدتر می‌شود.",
+"e": "I’m getting worse",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دستم را بریدم.",
+"e": "I cut my hand",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "لرز دارم.",
+"e": "I have chills",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دارم عرق می‌کنم.",
+"e": "I’m sweating",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دردم بهتر شده است.",
+"e": "My pain has improved",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "درد شدید است.",
+"e": "The pain is severe",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "اینجا درد می‌کند.",
+"e": "It hurts here",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "کجا درد می‌کند؟",
+"e": "Where does it hurt?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "نمی‌توانم نفس بکشم.",
+"e": "I can’t breathe",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "آیا حساسیت دارویی داری؟",
+"e": "Do you have any drug allergies?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دوز دارو چقدر است؟",
+"e": "What’s the dosage?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "چه دارویی مصرف می‌کنی؟",
+"e": "What medicine are you taking?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "می‌خواهم نسخه را پر کنم.",
+"e": "I’d like to fill a prescription",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "بهتر است دراز بکشی.",
+"e": "You should lie down",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "آرام باش.",
+"e": "Stay calm",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دمای بدنت بالاست.",
+"e": "Your temperature is high",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "ماسک بزن.",
+"e": "Wear a mask",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "واکسیناسیون مهم است.",
+"e": "Vaccination is important",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "واکسن زدی؟",
+"e": "Did you get vaccinated?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "می‌خواهم وقت دکتر بگیرم.",
+"e": "I’d like to make a doctor’s appointment",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "بهتر است به اورژانس بروی.",
+"e": "You should go to the emergency room",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "نیاز به استراحت داری.",
+"e": "You need some rest",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "دارو خوردی؟",
+"e": "Did you take any medicine?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "می‌توانی یک دکتر خوب معرفی کنی؟",
+"e": "Can you recommend a good doctor?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "لازم است برم دکتر.",
+"e": "I need to see a doctor",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "احساس ضعف می‌کنم.",
+"e": "I feel weak",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "آبریزش بینی دارم.",
+"e": "I have a runny nose",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "بینی‌ام گرفته است.",
+"e": "My nose is stuffy",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "سرفه می‌کنم.",
+"e": "I’m coughing",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "احساس سرگیجه دارم.",
+"e": "I feel dizzy",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "سرم درد می‌کند.",
+"e": "I have a headache",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "گلو درد و شکم درد دارم.",
+"e": "I have a sore throat and a stomachache",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "تب داری؟",
+"e": "Do you have a fever?",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "فکر کنم سرما خورده‌ام.",
+"e": "I think I caught a cold",
+"t": "بهداشت و بیماری"
+},
+{
+"p": "می‌توانم کالا را تعویض کنم؟",
+"e": "Can I exchange the item?",
+"t": "خرید"
+},
+{
+"p": "پولم را برمی‌گردانید؟",
+"e": "Will you refund my money?",
+"t": "خرید"
+},
+{
+"p": "اگر آسیب ببیند چه می‌شود؟",
+"e": "What if it gets damaged?",
+"t": "خرید"
+},
+{
+"p": "اگر گم شود چه می‌شود؟",
+"e": "What if it gets lost?",
+"t": "خرید"
+},
+{
+"p": "مالیات جداگانه حساب می‌شود؟",
+"e": "Is tax included?",
+"t": "خرید"
+},
+{
+"p": "می‌توانید مالیاتش را کم کنید؟",
+"e": "Can you take off the tax?",
+"t": "خرید"
+},
+{
+"p": "این آخرین قیمت است.",
+"e": "This is the lowest price",
+"t": "خرید"
+},
+{
+"p": "می‌توانید تخفیف بدهید؟",
+"e": "Can you give me a discount?",
+"t": "خرید"
+},
+{
+"p": "این فروشگاه قیمت ثابت دارد.",
+"e": "This store has fixed prices",
+"t": "خرید"
+},
+{
+"p": "من بعضی وقت‌ها اینجا خرید می‌کنم.",
+"e": "I sometimes shop here",
+"t": "خرید"
+},
+{
+"p": "اینجا فروشگاه زنجیره‌ای است یا محلی؟",
+"e": "Is this a chain store or local store?",
+"t": "خرید"
+},
+{
+"p": "اینجا صندوقدار مهربان است.",
+"e": "The cashier is friendly",
+"t": "خرید"
+},
+{
+"p": "این کالا بدون تخفیف است.",
+"e": "This item is full price",
+"t": "خرید"
+},
+{
+"p": "این پنجاه درصد تخفیف است.",
+"e": "This is fifty percent off",
+"t": "خرید"
+},
+{
+"p": "این خرید یکی بخر دو تا ببر است.",
+"e": "This is buy one get one free",
+"t": "خرید"
+},
+{
+"p": "این فروش ویژه است.",
+"e": "This is a special offer",
+"t": "خرید"
+},
+{
+"p": "این کالا خیلی پرطرفدار است.",
+"e": "This item is very popular",
+"t": "خرید"
+},
+{
+"p": "می‌توانید قیمت آنلاینش را نشان دهید؟",
+"e": "Can you show me the online price?",
+"t": "خرید"
+},
+{
+"p": "کالای کارکرده می‌فروشید؟",
+"e": "Do you sell used items?",
+"t": "خرید"
+},
+{
+"p": "این دسته دوم است؟",
+"e": "Is this secondhand?",
+"t": "خرید"
+},
+{
+"p": "کد تخفیف دارید؟",
+"e": "Do you have a promo code?",
+"t": "خرید"
+},
+{
+"p": "صف خیلی طولانی است.",
+"e": "The line is too long",
+"t": "خرید"
+},
+{
+"p": "پارکینگ پولی است؟",
+"e": "Is parking paid?",
+"t": "خرید"
+},
+{
+"p": "این فروشگاه پارکینگ دارد؟",
+"e": "Does this store have parking?",
+"t": "خرید"
+},
+{
+"p": "من یک خرید عجولانه انجام دادم.",
+"e": "I made an impulse purchase",
+"t": "خرید"
+},
+{
+"p": "من یک خرید هوشمندانه انجام دادم.",
+"e": "I made a smart purchase",
+"t": "خرید"
+},
+{
+"p": "من خیلی پول خرج کردم.",
+"e": "I spent too much money",
+"t": "خرید"
+},
+{
+"p": "برای کسی خرید می‌کنی؟",
+"e": "Are you shopping for someone?",
+"t": "خرید"
+},
+{
+"p": "یک هدیه می‌خواهم بخرم.",
+"e": "I want to buy a gift",
+"t": "خرید"
+},
+{
+"p": "به دنبال چه چیزی هستید؟",
+"e": "What are you looking for?",
+"t": "خرید"
+},
+{
+"p": "من خرید حضوری را ترجیح می‌دهم.",
+"e": "I prefer shopping in person",
+"t": "خرید"
+},
+{
+"p": "من خرید اینترنتی را ترجیح می‌دهم.",
+"e": "I prefer online shopping",
+"t": "خرید"
+},
+{
+"p": "این فروشگاه قیمت مناسب است.",
+"e": "This store is affordable",
+"t": "خرید"
+},
+{
+"p": "برای خرید زیاد تخفیف می‌دهید؟",
+"e": "Do you give discounts for large orders?",
+"t": "خرید"
+},
+{
+"p": "ساعت کاری فروشگاه چند است؟",
+"e": "What are the store hours?",
+"t": "خرید"
+},
+{
+"p": "چند سال ضمانت دارد؟",
+"e": "How many years is the warranty?",
+"t": "خرید"
+},
+{
+"p": "می‌توانم قیمت را مقایسه کنم؟",
+"e": "Can I compare the price?",
+"t": "خرید"
+},
+{
+"p": "کارت عضویت دارید؟",
+"e": "Do you have a membership card?",
+"t": "خرید"
+},
+{
+"p": "چطور می‌توانم تخفیف بگیرم؟",
+"e": "How can I get a discount?",
+"t": "خرید"
+},
+{
+"p": "موجودی‌اش تمام شده است؟",
+"e": "Is it out of stock?",
+"t": "خرید"
+},
+{
+"p": "این موجود است؟",
+"e": "Is this in stock?",
+"t": "خرید"
+},
+{
+"p": "مدل قدیمی‌تر ارزان‌تر است؟",
+"e": "Is the older model cheaper?",
+"t": "خرید"
+},
+{
+"p": "تخفیف دانشجویی دارید؟",
+"e": "Do you have student discounts?",
+"t": "خرید"
+},
+{
+"p": "این چه جنسی است؟",
+"e": "What material is this?",
+"t": "خرید"
+},
+{
+"p": "تاریخ انقضا کی است؟",
+"e": "What’s the expiration date?",
+"t": "خرید"
+},
+{
+"p": "اگر خراب بود، می‌توانم پس بدهم؟",
+"e": "Can I return it if it’s broken?",
+"t": "خرید"
+},
+{
+"p": "می‌توانم سفارش دهم؟",
+"e": "Can I order it?",
+"t": "خرید"
+},
+{
+"p": "این تازه رسیده است؟",
+"e": "Is this a new arrival?",
+"t": "خرید"
+},
+{
+"p": "ارزان‌ترش را دارید؟",
+"e": "Do you have something cheaper?",
+"t": "خرید"
+},
+{
+"p": "کیسه پلاستیکی پولی است؟",
+"e": "Do you charge for bags?",
+"t": "خرید"
+},
+{
+"p": "کیسه می‌خواهید؟",
+"e": "Do you need a bag?",
+"t": "خرید"
+},
+{
+"p": "پرداخت اقساطی دارید؟",
+"e": "Do you have installment payments?",
+"t": "خرید"
+},
+{
+"p": "می‌توانم فاکتورش را بگیرم؟",
+"e": "Can I get a receipt?",
+"t": "خرید"
+},
+{
+"p": "می‌توانم پسش بدهم؟",
+"e": "Can I return it?",
+"t": "خرید"
+},
+{
+"p": "چه موقع حراج شروع می‌شود؟",
+"e": "When does the sale start?",
+"t": "خرید"
+},
+{
+"p": "این قیمت نهایی است؟",
+"e": "Is this the final price?",
+"t": "خرید"
+},
+{
+"p": "تخفیف دارد؟",
+"e": "Is it on sale?",
+"t": "خرید"
+},
+{
+"p": "این رنگ دیگر هم دارد؟",
+"e": "Does this come in another color?",
+"t": "خرید"
+},
+{
+"p": "سایز کوچک‌تر دارید؟",
+"e": "Do you have a smaller size?",
+"t": "خرید"
+},
+{
+"p": "اتاق پرو کجاست؟",
+"e": "Where is the fitting room?",
+"t": "خرید"
+},
+{
+"p": "می‌توانم این را پرو کنم؟",
+"e": "Can I try this on?",
+"t": "خرید"
+},
+{
+"p": "من فقط دارم نگاه می‌کنم.",
+"e": "I’m just looking",
+"t": "خرید"
+},
+{
+"p": "چه چیزی می‌خواهی بخری؟",
+"e": "What do you want to buy?",
+"t": "خرید"
+},
+{
+"p": "من معمولاً از سوپرمارکت نزدیک خانه‌ام خرید می‌کنم.",
+"e": "I usually shop at the grocery store near my house",
+"t": "خرید"
+},
+{
+"p": "لازم است برم خرید.",
+"e": "I need to go shopping",
+"t": "خرید"
+},
+{
+"p": "بهترین جای دیدنی این شهر کجاست؟",
+"e": "Where is the best place to see in this city?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "شطرنج یک بازی فکری است",
+"e": "Chess is a game of thought",
+"t": "تفریح و ورزش"
+},
+{
+"p": "ما هر جمعه بیرون می‌رویم",
+"e": "We go out every Friday",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آمریکا جنگل‌های زیادی دارد",
+"e": "America has a lot of forests",
+"t": "تفریح و ورزش"
+},
+{
+"p": "سرگرمی مورد علاقه‌ات چیست؟",
+"e": "What's your favorite hobby?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "می‌خواهی یک مسابقه (ورزشی) را تماشا کنیم؟",
+"e": "Do you want to watch a game?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من طرفدار پروپاقرص بیسبال هستم.",
+"e": "I'm a huge fan of baseball",
+"t": "تفریح و ورزش"
+},
+{
+"p": "وقت ورزش کردن است.",
+"e": "It's time to work out",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آن حرکت\/بازی عالی را دیدی؟",
+"e": "Did you see that amazing play?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بازی مساوی شد.",
+"e": "We tied the game",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آن‌ها دارند رقبا را در هم می‌شکنند.",
+"e": "They are crushing the competition",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من کاملاً خسته‌ام.",
+"e": "I'm totally wiped out",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بیا در پارک استراحت کنیم و خوش بگذرانیم.",
+"e": "Let's chill at the park",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آن خطا بود!",
+"e": "That was a foul!",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من امروز استراحت می‌کنم.",
+"e": "I'm taking a rest day",
+"t": "تفریح و ورزش"
+},
+{
+"p": "می‌خواهم یک چرت بزنم.",
+"e": "I'm going to take a nap",
+"t": "تفریح و ورزش"
+},
+{
+"p": "امشب برای استراحت و تفریح وقت داری؟",
+"e": "Are you free to kick back tonight?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "دارم سعی می‌کنم تناسب اندام پیدا کنم.",
+"e": "I'm trying to get in shape",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بدون رنج، گنج میسر نیست.",
+"e": "No pain, no gain",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من ورزش‌های انفرادی را ترجیح می‌دهم.",
+"e": "I prefer individual sports",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من کاملاً آماده هستم.",
+"e": "I'm all set",
+"t": "تفریح و ورزش"
+},
+{
+"p": "اول باید گرم کنیم.",
+"e": "We need to warm up first",
+"t": "تفریح و ورزش"
+},
+{
+"p": "می‌خواهم بروم بدوم.",
+"e": "I'm going for a run",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بیا یک کشش سریع انجام دهیم.",
+"e": "Let's do a quick stretch",
+"t": "تفریح و ورزش"
+},
+{
+"p": "به یک استراحت نیاز دارم.",
+"e": "I need a break",
+"t": "تفریح و ورزش"
+},
+{
+"p": "باید به یک لیگ (ورزشی) بپیوندی.",
+"e": "You should join a league",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او امروز عالی کار می‌کند\/در اوج است!",
+"e": "He's on fire today!",
+"t": "تفریح و ورزش"
+},
+{
+"p": "حواست به توپ باشد.",
+"e": "Keep your eye on the ball",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بیا برویم جاهای دیدنی را تماشا کنیم.",
+"e": "Let's go sightseeing",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بازی مساوی است.",
+"e": "It's a tie game",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او در تیم پذیرفته شد!",
+"e": "He made the team!",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بعداً چه برنامه‌ای داری؟",
+"e": "What are you up to later?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بعد از آن جلسه یوگا حس خوبی دارم.",
+"e": "I'm feeling good after that yoga session",
+"t": "تفریح و ورزش"
+},
+{
+"p": "سخت نگیر\/راحت باش.",
+"e": "Take it easy",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بریم کوه‌نوردی",
+"e": "Let’s go hiking",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من معمولاً صبح‌ها شنا می‌کنم",
+"e": "I usually swim in the morning",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او هر آخر هفته تنیس بازی می‌کند",
+"e": "He plays tennis every weekend",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او از رقصیدن لذت می‌برد",
+"e": "She enjoys dancing",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آنها بیسبال را در تلویزیون نگاه می‌کنند",
+"e": "They watch baseball on TV",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من می‌خواهم موج‌سواری را امتحان کنم",
+"e": "I want to try surfing",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من برای آرامش دوچرخه‌سواری می‌کنم",
+"e": "I ride my bike to relax",
+"t": "تفریح و ورزش"
+},
+{
+"p": "ما تابستان‌ها ماهیگیری می‌رویم",
+"e": "We go fishing in summer",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او در وقت آزادش موسیقی گوش می‌دهد",
+"e": "She listens to music in her free time",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من از اردو زدن در کوهستان لذت می‌برم",
+"e": "I enjoy camping in the mountains",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آنها با هم ورق بازی می‌کنند",
+"e": "They play cards together",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او دویدن در صبح را دوست دارد",
+"e": "He likes running in the morning",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من گاهی بازی‌های ویدئویی انجام می‌دهم",
+"e": "I sometimes play video games",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او زمستان‌ها اسکیت می‌کند",
+"e": "She goes skating in winter",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من می‌خواهم بوکس یاد بگیرم",
+"e": "I want to learn boxing",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او برای سرگرمی گیتار می‌زند",
+"e": "He plays guitar for fun",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من پیاده‌روی در ساحل را دوست دارم",
+"e": "I like walking on the beach",
+"t": "تفریح و ورزش"
+},
+{
+"p": "ما از بازی بدمینتون لذت می‌بریم",
+"e": "We enjoy playing badminton",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او عاشق نقاشی در وقت آزادش است",
+"e": "She loves painting in her free time",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آنها هر زمستان اسکی می‌روند",
+"e": "They go skiing every winter",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او کوه‌نوردی را دوست دارد",
+"e": "He likes climbing mountains",
+"t": "تفریح و ورزش"
+},
+{
+"p": "ما از شنا در دریا لذت می‌بریم",
+"e": "We enjoy swimming in the sea",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من گاهی با دوستانم بسکتبال بازی می‌کنم",
+"e": "I sometimes play basketball with friends",
+"t": "تفریح و ورزش"
+},
+{
+"p": "من عاشق رفتن به کنسرت هستم",
+"e": "I love going to concerts",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او خواندن رمان‌ها را دوست دارد",
+"e": "She likes reading novels",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آنها در رودخانه قایق‌سواری می‌کنند",
+"e": "They go kayaking in the river",
+"t": "تفریح و ورزش"
+},
+{
+"p": "او هنرهای رزمی تمرین می‌کند",
+"e": "He practices martial arts",
+"t": "تفریح و ورزش"
+},
+{
+"p": "آیا ورزش می‌کنی؟",
+"e": "Do you play any sports?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "درست است، من یک بوکسور در سطح جهانی هستم.",
+"e": "It's true, I am a world-class boxer",
+"t": "تفریح و ورزش"
+},
+{
+"p": "خب، حدس می‌زنم واقعاً از بازی دیروز ناراحتی.",
+"e": "Well, I guess you are really upset about yesterday's match",
+"t": "تفریح و ورزش"
+},
+{
+"p": "چند وقت یکبار فوتبال تمرین می‌کنی؟",
+"e": "How often do you practice football?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "می‌خواهی به تیم ما بپیوندی؟",
+"e": "Do you want to join our team?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "داریم برنامه‌ریزی می‌کنیم برای بازی مقابل دپارتمان حسابداری.",
+"e": "We are planning a game against the accounting department",
+"t": "تفریح و ورزش"
+},
+{
+"p": "فوتبال نگاه کردن را بیشتر از بازی کردن دوست دارم.",
+"e": "I like to watch football more than play it",
+"t": "تفریح و ورزش"
+},
+{
+"p": "منظم تمرین می‌کنی؟",
+"e": "Do you practice regularly?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "راهت برای تناسب اندام چیست؟",
+"e": "What is your way of staying fit?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "احساس ضعف می‌کنم، می‌خواهم شروع کنم به تمرین برای عضله‌سازی.",
+"e": "I feel fragile, I would like to start training to gain some muscles",
+"t": "تفریح و ورزش"
+},
+{
+"p": "واقعاً فوتبال دوست دارم، هدفم شروع تمرین به تنهایی است.",
+"e": "I really like football, I aim to start training by myself",
+"t": "تفریح و ورزش"
+},
+{
+"p": "اگر یک کلمه دیگر بگویی، در رینگ به بینی‌ات مشت می‌زنم.",
+"e": "I will punch you in your beezer on the ring if you say one more word",
+"t": "تفریح و ورزش"
+},
+{
+"p": "میرم شنا.",
+"e": "I'm going for a swim",
+"t": "تفریح و ورزش"
+},
+{
+"p": "می‌خواهی گلف بازی کنیم؟",
+"e": "Wanna play some golf?",
+"t": "تفریح و ورزش"
+},
+{
+"p": "یوگا دوست دارم، آرومم می‌کنه.",
+"e": "I love yoga, it relaxes me",
+"t": "تفریح و ورزش"
+},
+{
+"p": "بیشتر شغل‌ها دارد از بین می‌رود",
+"e": "Most jobs are disappearing.",
+"t": "کار و آموزش"
+},
+{
+"p": "امشب تا دیروقت کار می‌کنم.",
+"e": "I’m working late tonight",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم دنبال کار جدید می‌گردم.",
+"e": "I’m looking for a new job",
+"t": "کار و آموزش"
+},
+{
+"p": "ترفیع گرفتم.",
+"e": "I got a promotion",
+"t": "کار و آموزش"
+},
+{
+"p": "می‌توانیم جلسه‌ای برنامه‌ریزی کنیم؟",
+"e": "Can we schedule a meeting?",
+"t": "کار و آموزش"
+},
+{
+"p": "خوداشتغال هستم.",
+"e": "I’m self-employed",
+"t": "کار و آموزش"
+},
+{
+"p": "کار تمام وقت دارم.",
+"e": "I have a full-time job",
+"t": "کار و آموزش"
+},
+{
+"p": "من تیم را رهبری می‌کنم.",
+"e": "I’m leading the team",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم روی گزارشی کار می‌کنم.",
+"e": "I’m working on a report",
+"t": "کار و آموزش"
+},
+{
+"p": "این مسئولیت من نیست.",
+"e": "That’s not my responsibility",
+"t": "کار و آموزش"
+},
+{
+"p": "به استراحت نیاز دارم.",
+"e": "I need a break",
+"t": "کار و آموزش"
+},
+{
+"p": "بعد از ناهار در دسترس هستم.",
+"e": "I’m available after lunch",
+"t": "کار و آموزش"
+},
+{
+"p": "جزئیات را برایت می‌فرستم.",
+"e": "I’ll send you the details",
+"t": "کار و آموزش"
+},
+{
+"p": "می‌توانیم دوباره زمان‌بندی کنیم؟",
+"e": "Can we reschedule?",
+"t": "کار و آموزش"
+},
+{
+"p": "دنبالش را می‌گیرم.",
+"e": "I’ll follow up on that",
+"t": "کار و آموزش"
+},
+{
+"p": "آن یک فرصت عالی است.",
+"e": "That’s a great opportunity",
+"t": "کار و آموزش"
+},
+{
+"p": "برای شغل جدیدی درخواست می‌دهم.",
+"e": "I’m applying for a new position",
+"t": "کار و آموزش"
+},
+{
+"p": "استخدام شدم.",
+"e": "I got hired",
+"t": "کار و آموزش"
+},
+{
+"p": "اخراج شدم.",
+"e": "I got laid off",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم اضافه‌کاری می‌کنم برای حقوق بیشتر.",
+"e": "I'm working overtime for more pay",
+"t": "کار و آموزش"
+},
+{
+"p": "بیایید مهلت مشخص کنیم.",
+"e": "Let’s set a deadline",
+"t": "کار و آموزش"
+},
+{
+"p": "به منابع بیشتری نیاز داریم.",
+"e": "We need more resources",
+"t": "کار و آموزش"
+},
+{
+"p": "بیایید با هم مرورش کنیم.",
+"e": "Let’s review it together",
+"t": "کار و آموزش"
+},
+{
+"p": "لازم است این مدرک را امضا کنم.",
+"e": "I need to sign this document",
+"t": "کار و آموزش"
+},
+{
+"p": "می‌توانی صفحه‌ات را به اشتراک بگذاری؟",
+"e": "Can you share your screen?",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم دوره آنلاین می‌گذرانم.",
+"e": "I’m taking an online course",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم تحقیق می‌کنم.",
+"e": "I’m doing research",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم مهارت جدیدی یاد می‌گیرم.",
+"e": "I’m learning a new skill",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم انگلیسی تمرین می‌کنم.",
+"e": "I’m practicing English",
+"t": "کار و آموزش"
+},
+{
+"p": "باید نوشتنم را بهتر کنم.",
+"e": "I need to improve my writing",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم یادداشت برمی‌دارم.",
+"e": "I’m taking notes",
+"t": "کار و آموزش"
+},
+{
+"p": "بیایید با هم درس بخوانیم.",
+"e": "Let’s study together",
+"t": "کار و آموزش"
+},
+{
+"p": "می‌توانی دوباره توضیح بدهی؟",
+"e": "Can you explain it again?",
+"t": "کار و آموزش"
+},
+{
+"p": "باید این را حفظ کنم.",
+"e": "I need to memorize this",
+"t": "کار و آموزش"
+},
+{
+"p": "یک آزمون تمرینی خواهم داد.",
+"e": "I’ll take a practice test",
+"t": "کار و آموزش"
+},
+{
+"p": "باید تمرکز کنم.",
+"e": "I need to focus",
+"t": "کار و آموزش"
+},
+{
+"p": "از بقیه عقب افتاده‌ام.",
+"e": "I’m falling behind",
+"t": "کار و آموزش"
+},
+{
+"p": "برای یک کلاس ثبت‌نام می‌کنم.",
+"e": "I’ll sign up for a class",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم خارج از کشور درس می‌خوانم.",
+"e": "I’m studying abroad",
+"t": "کار و آموزش"
+},
+{
+"p": "کارآموزی می‌کنم.",
+"e": "I’m doing an internship",
+"t": "کار و آموزش"
+},
+{
+"p": "رد شدم.",
+"e": "I got rejected",
+"t": "کار و آموزش"
+},
+{
+"p": "وام دانشجویی دارم.",
+"e": "I have student loans",
+"t": "کار و آموزش"
+},
+{
+"p": "دارم پروژه‌ام را ارائه می‌دهم.",
+"e": "I’m presenting my project",
+"t": "کار و آموزش"
+},
+{
+"p": "با عمل کردن یاد می‌گیرم.",
+"e": "I’m learning by doing",
+"t": "کار و آموزش"
+},
+{
+"p": "از اشتباهاتم یاد می‌گیرم.",
+"e": "I learn from my mistakes",
+"t": "کار و آموزش"
+},
+{
+"p": "دانش قدرت است.",
+"e": "Knowledge is power",
+"t": "کار و آموزش"
+},
+{
+"p": "یاد گرفتن چیزهای جدید را دوست دارم.",
+"e": "I love learning new things",
+"t": "کار و آموزش"
+},
+{
+"p": "آموزش کلید موفقیت است.",
+"e": "Education is the key to success",
+"t": "کار و آموزش"
+},
+{
+"p": "او در بخش بازاریابی کار می‌کند.",
+"e": "She works in marketing",
+"t": "کار و آموزش"
+},
+{
+"p": "ما می‌توانیم فردا این را پیگیری کنیم.",
+"e": "We can follow up on this tomorrow",
+"t": "کار و آموزش"
+},
+{
+"p": "آیا می‌توانیم در مورد حقوق و مزایا صحبت کنیم؟",
+"e": "Can we discuss the salary and benefits?",
+"t": "کار و آموزش"
+},
+{
+"p": "او یک نیروی کلیدی در تیم ماست.",
+"e": "He's a key player on our team",
+"t": "کار و آموزش"
+},
+{
+"p": "رئیسم یک وظیفه جدید برایم معین کرد.",
+"e": "My boss assigned me a new task",
+"t": "کار و آموزش"
+},
+{
+"p": "پروژه در مسیر درست است.",
+"e": "The project is on track",
+"t": "کار و آموزش"
+},
+{
+"p": "او اخیراً ترفیع گرفته است.",
+"e": "She recently got a promotion",
+"t": "کار و آموزش"
+},
+{
+"p": "این کار چقدر درآمد دارد؟",
+"e": "How much does this job pay?",
+"t": "کار و آموزش"
+},
+{
+"p": "ما در محل کار فضای دوستانه‌ای داریم.",
+"e": "We have a friendly environment at work",
+"t": "کار و آموزش"
+},
+{
+"p": "این یک موقعیت شغلی پاره‌وقت است.",
+"e": "It's a part-time position",
+"t": "کار و آموزش"
+},
+{
+"p": "آیا این یک شغل بدون آینده است؟",
+"e": "Is this a dead-end job?",
+"t": "کار و آموزش"
+},
+{
+"p": "من را از پیشرفت‌ها باخبر نگه دارید.",
+"e": "Keep me posted on the progress",
+"t": "کار و آموزش"
+},
+{
+"p": "من برای آن نقش مناسب نیستم.",
+"e": "I'm not the right fit for that role",
+"t": "کار و آموزش"
+},
+{
+"p": "آیا می‌توانم فردا مرخصی بگیرم؟",
+"e": "Can I take tomorrow off?",
+"t": "کار و آموزش"
+},
+{
+"p": "این کلاس واقعاً سخت است.",
+"e": "This class is really tough",
+"t": "کار و آموزش"
+},
+{
+"p": "نمرات نهایی شما چطور بود؟",
+"e": "How were your final grades?",
+"t": "کار و آموزش"
+},
+{
+"p": "من باید یک پروژه تحقیقاتی بنویسم.",
+"e": "I have to write a research project",
+"t": "کار و آموزش"
+},
+{
+"p": "استاد ما خیلی سخت‌گیر است.",
+"e": "Our professor is very strict",
+"t": "کار و آموزش"
+},
+{
+"p": "من مجبور شدم از کالج انصراف بدهم.",
+"e": "I had to drop out of college",
+"t": "کار و آموزش"
+},
+{
+"p": "من باید این واحد درسی را دوباره بگذرانم.",
+"e": "I have to retake this course",
+"t": "کار و آموزش"
+},
+{
+"p": "من می‌خواهم در یک باشگاه ثبت نام کنم.",
+"e": "I want to sign up for a club",
+"t": "کار و آموزش"
+},
+{
+"p": "من یک کمک هزینه تحصیلی کامل دریافت کردم.",
+"e": "I received a full scholarship",
+"t": "کار و آموزش"
+},
+{
+"p": "او در امتحان تقلب کرد.",
+"e": "He cheated on the exam",
+"t": "کار و آموزش"
+},
+{
+"p": "من باید روی مهارت‌های مکالمه‌ام کار کنم.",
+"e": "I need to work on my speaking skills",
+"t": "کار و آموزش"
+},
+{
+"p": "کتاب‌های درسی چقدر هزینه دارند؟",
+"e": "How much do the textbooks cost?",
+"t": "کار و آموزش"
+},
+{
+"p": "برنامه شما بعد از فارغ‌التحصیلی چیست؟",
+"e": "What is your plan after graduation?",
+"t": "کار و آموزش"
+},
+{
+"p": "من باید بیشتر در کلاس‌ها صحبت کنم.",
+"e": "I need to speak up more in class",
+"t": "کار و آموزش"
+},
+{
+"p": "آیا می‌توانم در ساعات اداری شما را ببینم؟",
+"e": "Can I see you during your office hours?",
+"t": "کار و آموزش"
+},
+{
+"p": "من فردی هستم که سریع یاد می‌گیرد.",
+"e": "I'm a quick study",
+"t": "کار و آموزش"
+},
+{
+"p": "آیا می‌توانم کمی استراحت کنم؟",
+"e": "Can I take a short break?",
+"t": "کار و آموزش"
+},
+{
+"p": "اتاق خالی دارید؟",
+"e": "Do you have any rooms available?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌خواهم یک اتاق رزرو کنم.",
+"e": "I’d like to book a room",
+"t": "هتل و رستوران"
+},
+{
+"p": "چه نوع اتاق‌هایی دارید؟",
+"e": "What kinds of rooms do you have?",
+"t": "هتل و رستوران"
+},
+{
+"p": "هزینه هر شب چقدر است؟",
+"e": "How much is it per night?",
+"t": "هتل و رستوران"
+},
+{
+"p": "آیا صبحانه شامل می‌شود؟",
+"e": "Is breakfast included?",
+"t": "هتل و رستوران"
+},
+{
+"p": "ساعت چک‌این چه موقع است؟",
+"e": "What time is check-in?",
+"t": "هتل و رستوران"
+},
+{
+"p": "اتاق با نمای دریا دارید؟",
+"e": "Do you have a room with an ocean view?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌خواهم اتاقم طبقه بالا باشد.",
+"e": "I’d like my room on a higher floor",
+"t": "هتل و رستوران"
+},
+{
+"p": "اتاق ساکت می‌خواهم.",
+"e": "I’d like a quiet room",
+"t": "هتل و رستوران"
+},
+{
+"p": "یک پتوی اضافه می‌خواهم.",
+"e": "I’d like an extra blanket",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانید برایم تاکسی بگیرید؟",
+"e": "Can you call a taxi for me?",
+"t": "هتل و رستوران"
+},
+{
+"p": "یک زنگ بیدارباش برای صبح تنظیم کنید.",
+"e": "Schedule a wake-up call for morning",
+"t": "هتل و رستوران"
+},
+{
+"p": "کجا می‌توانم صبحانه بخورم؟",
+"e": "Where can I have breakfast?",
+"t": "هتل و رستوران"
+},
+{
+"p": "غذای گیاهی دارید؟",
+"e": "Do you have vegetarian options?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانید چیزی پیشنهاد دهید؟",
+"e": "Can you recommend something?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌خواهم نیم‌پز باشد.",
+"e": "I’d like it medium rare",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانم یک لیوان شراب بگیرم؟",
+"e": "Can I have a glass of wine?",
+"t": "هتل و رستوران"
+},
+{
+"p": "این غذا خیلی خوشمزه بود.",
+"e": "This food was delicious",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانم صورت حساب را بگیرم؟",
+"e": "Can I get the check?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌خواهم نقدی حساب کنم.",
+"e": "I’d like to pay in cash",
+"t": "هتل و رستوران"
+},
+{
+"p": "آیا انعام شامل می‌شود؟",
+"e": "Is the tip included?",
+"t": "هتل و رستوران"
+},
+{
+"p": "لطفاً اسمم را تو لیست بگذارید.",
+"e": "Please put my name on the list",
+"t": "هتل و رستوران"
+},
+{
+"p": "چقدر باید صبر کنیم؟",
+"e": "How long is the wait?",
+"t": "هتل و رستوران"
+},
+{
+"p": "غذا هنوز آماده نشده است؟",
+"e": "Is the food not ready yet?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانید سریع‌تر بیاورید؟",
+"e": "Can you bring it faster?",
+"t": "هتل و رستوران"
+},
+{
+"p": "این چیزی نیست که سفارش دادم.",
+"e": "This is not what I ordered",
+"t": "هتل و رستوران"
+},
+{
+"p": "غذا خیلی گران است.",
+"e": "The food is too expensive",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانم غذایم را بیرون ببرم؟",
+"e": "Can I get my food to go?",
+"t": "هتل و رستوران"
+},
+{
+"p": "رستوران چه ساعتی می‌بندد؟",
+"e": "What time does the restaurant close?",
+"t": "هتل و رستوران"
+},
+{
+"p": "ساعت چند باز می‌کنید؟",
+"e": "What time do you open?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانم منوی نوشیدنی‌ها را ببینم؟",
+"e": "Can I see the drink menu?",
+"t": "هتل و رستوران"
+},
+{
+"p": "شیرینی (دسر) دارید؟",
+"e": "Do you have desserts?",
+"t": "هتل و رستوران"
+},
+{
+"p": "چه شیرینی‌هایی (دسر‌هایی) دارید؟",
+"e": "What desserts do you have?",
+"t": "هتل و رستوران"
+},
+{
+"p": "این غذای دریایی تازه است؟",
+"e": "Is this seafood fresh?",
+"t": "هتل و رستوران"
+},
+{
+"p": "یک دست کارد و چنگال اضافه می‌خواهم.",
+"e": "I need an extra set of utensils",
+"t": "هتل و رستوران"
+},
+{
+"p": "آیا غذای محلی سرو می‌کنید؟",
+"e": "Do you serve local dishes?",
+"t": "هتل و رستوران"
+},
+{
+"p": "این غذا چطور درست می‌شود؟",
+"e": "How is this dish made?",
+"t": "هتل و رستوران"
+},
+{
+"p": "صورت حساب من اشتباه است.",
+"e": "My bill is wrong",
+"t": "هتل و رستوران"
+},
+{
+"p": "غذای گیاهی دارید؟",
+"e": "Do you have any vegetarian dishes?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانید این غذا را بدون پنیر درست کنید؟",
+"e": "Can you make this dish without cheese?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانید دوباره گرمش کنید؟",
+"e": "Can you reheat it?",
+"t": "هتل و رستوران"
+},
+{
+"p": "رستوران امشب شلوغ است؟",
+"e": "Is the restaurant busy tonight?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانم یک میز کنار پنجره داشته باشم؟",
+"e": "Can I have a table by the window?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌توانید غذا را برای بیرون آماده کنید؟",
+"e": "Can you make it to go?",
+"t": "هتل و رستوران"
+},
+{
+"p": "آیا تخفیف دارید؟",
+"e": "Do you have any discounts?",
+"t": "هتل و رستوران"
+},
+{
+"p": "من به بادام زمینی حساسیت دارم.",
+"e": "I am allergic to peanuts",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌خواهم رزرو کنم.",
+"e": "I want to make a reservation",
+"t": "هتل و رستوران"
+},
+{
+"p": "این استیک چطور پخته می‌شود؟",
+"e": "How is this steak cooked?",
+"t": "هتل و رستوران"
+},
+{
+"p": "این غذا ترد است؟",
+"e": "Is this dish crispy?",
+"t": "هتل و رستوران"
+},
+{
+"p": "می‌خواهم همین غذا را دوباره سفارش دهم.",
+"e": "I want to order the same dish again",
+"t": "هتل و رستوران"
+},
+{
+"p": "این غذا محلی است؟",
+"e": "Is this dish loca?",
+"t": "هتل و رستوران"
+},
+{
+"p": "آیا غذای ارگانیک دارید؟",
+"e": "Do you have organic food?",
+"t": "هتل و رستوران"
+},
+{
+"p": "لطفاً یک جعبه برای باقی مانده غذا بیاورید.",
+"e": "Please bring a box for the leftovers",
+"t": "هتل و رستوران"
+}
+]
